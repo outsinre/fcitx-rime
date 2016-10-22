@@ -1,0 +1,757 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb.kct
+#@/db_type	userdb
+#@/rime_version	1.2.0
+#@/tick	1444
+#@/user_id	fcitx-rime
+a 	啊	c=3 d=0.432287 t=1444
+an 	安	c=1 d=0.00159641 t=1444
+an han 	暗含	c=1 d=0.0197421 t=1444
+an quan 	安全	c=1 d=0.000871757 t=1444
+an zhuang 	安裝	c=8 d=1.20941 t=1444
+ba jin zhi 	八進制	c=1 d=0.00098783 t=1444
+bai du 	百堵	c=1 d=0.254107 t=1444
+bai qi 	白起	c=1 d=0.00207043 t=1444
+ban 	版	c=1 d=0.00539362 t=1444
+ban 	辦	c=0 d=0.000114769 t=1444
+ban ben 	版本	c=1 d=0.895834 t=1444
+ban di 	班底	c=1 d=0.00687406 t=1444
+ban fa 	辦法	c=1 d=0.00481991 t=1444
+ban sui 	伴隨	c=1 d=0.00166156 t=1444
+ban wa gong 	辦瓦工	c=1 d=0.00115345 t=1444
+bao 	包	c=6 d=0.4551 t=1444
+bao 	鮑	c=2 d=0.00334917 t=1444
+bao guo an 	鮑國安	c=2 d=0.00339972 t=1444
+bao han 	包含	c=1 d=0.021068 t=1444
+bao shi 	保溼	c=10 d=0.412389 t=1444
+bao wei 	保衛	c=1 d=0.000884932 t=1444
+bao wei zhan 	保衛戰	c=0 d=8.93825e-05 t=1444
+bao zhi 	報紙	c=2 d=0.00734161 t=1444
+bei fang 	北方	c=1 d=0.0672055 t=1444
+bei fen 	備份	c=1 d=0.0104099 t=1444
+bei gao 	被告	c=1 d=0.00362464 t=1444
+ben 	本	c=1 d=0.941765 t=1444
+ben shen 	本身	c=1 d=0.106459 t=1444
+ben zhan 	本站	c=1 d=0.00209124 t=1444
+bi 	比	c=4 d=0.497714 t=1444
+bi 	逼	c=2 d=0.994963 t=1444
+bi jiao 	比較	c=4 d=0.717806 t=1444
+bi jiao hao 	比較好	c=1 d=0.00151098 t=1444
+bi mian 	避免	c=2 d=0.132252 t=1444
+bi xu 	必須	c=2 d=0.0117755 t=1444
+bi yao shi 	必要時	c=1 d=0.371577 t=1444
+bian chu 	卞楚	c=1 d=0.0023935 t=1444
+bian hao 	編號	c=1 d=0.67368 t=1444
+bian hua 	變化	c=1 d=0.0135009 t=1444
+bian shi 	便是	c=1 d=0.71177 t=1444
+bian xie 	編寫	c=1 d=0.0439369 t=1444
+bian yi 	編譯	c=3 d=1.22889 t=1444
+biao ge 	表格	c=2 d=0.701629 t=1444
+biao shi 	表示	c=0 d=0.0715338 t=1444
+biao shi yong 	表示用	c=1 d=0.718924 t=1444
+bing mei you 	並沒有	c=1 d=0.106992 t=1444
+bo bo 	薄薄	c=1 d=0.143704 t=1444
+bu 	不	c=4 d=0.75778 t=1444
+bu bian 	不變	c=1 d=0.00130051 t=1444
+bu chong 	補充	c=3 d=0.761512 t=1444
+bu cun zai 	不存在	c=1 d=0.0383884 t=1444
+bu da 	不大	c=0 d=0.000571306 t=1444
+bu ding 	補丁	c=1 d=0.00100276 t=1444
+bu fen 	部分	c=1 d=0.0146253 t=1444
+bu guo shi 	不過是	c=1 d=0.278037 t=1444
+bu hao 	不好	c=1 d=0.0746459 t=1444
+bu jian 	不見	c=1 d=0.0118551 t=1444
+bu jin 	不僅	c=1 d=0.0902655 t=1444
+bu men 	部門	c=1 d=0.00331267 t=1444
+bu shi 	不是	c=1 d=0.00185476 t=1444
+bu tong 	不同	c=1 d=0.0290133 t=1444
+bu xu yao 	不需要	c=1 d=0.0278757 t=1444
+bu yao 	不要	c=4 d=0.434123 t=1444
+bu zhi chi 	不支持	c=1 d=0.00096344 t=1444
+ca lian 	擦臉	c=1 d=0.00222055 t=1444
+can kao 	參考	c=2 d=0.0673534 t=1444
+cao zuo xi tong 	操作系統	c=1 d=0.0285814 t=1444
+ce shi 	測試	c=2 d=0.147492 t=1444
+ce shi yi xia a 	測試一下啊	c=1 d=0.941765 t=1444
+cha cha 	查查	c=1 d=0.22313 t=1444
+cha jian 	插件	c=1 d=0.00168667 t=1444
+cha ru 	插入	c=3 d=0.976888 t=1444
+cha wu 	查無	c=0 d=0.000292342 t=1444
+cha wu ci ren 	查無此人	c=2 d=0.00589087 t=1444
+cha xun 	查詢	c=1 d=0.625002 t=1444
+chan pin 	產品	c=1 d=0.224249 t=1444
+chang 	長	c=2 d=0.244289 t=1444
+chang jian 	常見	c=2 d=0.395224 t=1444
+chang jiang 	長江	c=1 d=0.00241755 t=1444
+chang sha 	長沙	c=1 d=0.000969899 t=1444
+chang sha bao wei zhan 	長沙保衛戰	c=1 d=0.000898306 t=1444
+chen 	陳	c=1 d=0.0086517 t=1444
+cheng 	成	c=2 d=0.0522196 t=1444
+cheng fen 	成分	c=2 d=0.417593 t=1444
+cheng gong 	成功	c=1 d=0.0132999 t=1444
+cheng xu 	程序	c=1 d=0.0149956 t=1444
+chi 	吃	c=1 d=0.00652615 t=1444
+chong xin 	重新	c=1 d=0.00124951 t=1444
+chu ci 	初次	c=1 d=0.0780817 t=1444
+chu lai 	出來	c=2 d=0.642295 t=1444
+chu li 	處理	c=2 d=0.0371056 t=1444
+chuan tong 	傳統	c=1 d=0.0216013 t=1444
+chuang qian 	窗前	c=1 d=1.07676 t=1444
+chuang qian ming yue guang 	窗前明月光	c=1 d=0.970446 t=1444
+chun 	脣	c=1 d=0.00557201 t=1444
+chun 	醇	c=1 d=0.0572688 t=1444
+ci dian 	詞典	c=5 d=0.0142164 t=1444
+ci ku 	詞庫	c=4 d=3.08845 t=1444
+ci ren 	此人	c=0 d=0.000292342 t=1444
+ci tiao 	詞條	c=1 d=0.319819 t=1444
+cong 	從	c=4 d=0.29453 t=1444
+cong tian er xia 	從天而下	c=2 d=1.17076 t=1444
+cu cao 	粗糙	c=1 d=0.115325 t=1444
+cuo chuang 	痤瘡	c=1 d=0.786628 t=1444
+da 	大	c=5 d=0.470733 t=1444
+da bu fen 	大部分	c=1 d=0.0207543 t=1444
+da dou 	大都	c=2 d=0.983411 t=1444
+da jiang 	大將	c=1 d=0.0020396 t=1444
+da liang 	大量	c=1 d=0.0792617 t=1444
+da lu 	大陸	c=1 d=0.00394621 t=1444
+da song 	大宋	c=2 d=0.0200168 t=1444
+da song ti xing 	大宋提刑	c=1 d=0.00932553 t=1444
+da xiao 	大小	c=1 d=0.00701293 t=1444
+da xue 	大學	c=1 d=0.00358858 t=1444
+da xue 	大雪	c=2 d=0.00745199 t=1444
+dai 	帶	c=2 d=0.215469 t=1444
+dai li 	代理	c=1 d=0.00189223 t=1444
+dai ma 	代碼	c=1 d=0.687289 t=1444
+dan 	但	c=1 d=0.0564161 t=1444
+dan shi 	但是	c=3 d=0.0779686 t=1444
+dan shi ke yi 	但是可以	c=1 d=0.110803 t=1444
+dao 	到	c=1 d=0.0652193 t=1444
+dao zhi 	導致	c=1 d=0.00843808 t=1444
+de 	的	c=65 d=8.11622 t=1444
+deng 	等	c=2 d=0.136195 t=1444
+deng di 	等地	c=1 d=0.158817 t=1444
+deng kuan 	等寬	c=2 d=0.0750972 t=1444
+di 	滴	c=1 d=0.0808629 t=1444
+di er bu 	第二部	c=1 d=0.790571 t=1444
+di fang 	地方	c=3 d=0.612078 t=1444
+di zhi 	地址	c=1 d=0.00142298 t=1444
+dia 	嗲	c=1 d=0.293758 t=1444
+dian 	店	c=1 d=0.045502 t=1444
+dian 	點	c=1 d=0.562705 t=1444
+dian hua 	電話	c=1 d=0.00235786 t=1444
+dian shi 	電視	c=1 d=0.00245409 t=1444
+dian shi ju 	電視劇	c=9 d=0.0249017 t=1444
+dian tu 	點圖	c=1 d=0.00102814 t=1444
+dian ying 	電影	c=14 d=0.878237 t=1444
+dian zhen 	點陣	c=1 d=0.00101284 t=1444
+ding lv 	定律	c=0 d=0.0657047 t=1444
+ding yi 	定義	c=1 d=0.024972 t=1444
+dong ji 	冬季	c=1 d=0.00402593 t=1444
+dong san sheng 	東三省	c=1 d=0.00873865 t=1444
+dong tian 	冬天	c=1 d=0.0675424 t=1444
+dong xi 	東西	c=1 d=0.0488012 t=1444
+dou 	都	c=2 d=0.428249 t=1444
+dou ban 	豆瓣	c=4 d=0.00659526 t=1444
+dou dou 	兜兜	c=1 d=0.131336 t=1444
+dou dou 	痘痘	c=1 d=0.140156 t=1444
+duan kou 	端口	c=1 d=0.818731 t=1444
+dui 	對	c=2 d=0.455165 t=1444
+duo 	多	c=1 d=0.155673 t=1444
+duo le 	多了	c=1 d=0.313486 t=1444
+duo zhong 	多種	c=1 d=0.0204453 t=1444
+e 	額	c=2 d=0.285258 t=1444
+er 	而	c=2 d=0.19921 t=1444
+er fei 	而非	c=1 d=0.0214936 t=1444
+er qie 	而且	c=1 d=0.092089 t=1444
+er shi 	而是	c=1 d=0.028297 t=1444
+fa ma 	發麻	c=1 d=0.831104 t=1444
+fa wen 	發文	c=1 d=0.00210172 t=1444
+fa xing 	發行	c=0 d=0.00184074 t=1444
+fa xing ban 	發行版	c=1 d=0.0184997 t=1444
+fa yang 	發癢	c=1 d=0.0507928 t=1444
+fa yin 	發音	c=1 d=0.00198925 t=1444
+fa zhan 	發展	c=1 d=0.0101529 t=1444
+fa zhan chu 	發展出	c=1 d=0.0184074 t=1444
+fan er 	反而	c=1 d=0.0742736 t=1444
+fan ju 	范雎	c=1 d=0.00240549 t=1444
+fan shi lin 	凡士林	c=6 d=0.668867 t=1444
+fan yi 	翻譯	c=1 d=0.00895987 t=1444
+fang an 	方案	c=2 d=0.0649594 t=1444
+fang fa 	方法	c=2 d=0.0429063 t=1444
+fang song ti 	仿宋體	c=1 d=0.0397558 t=1444
+fang zhang 	方丈	c=1 d=0.289384 t=1444
+fei bo 	菲薄	c=0 d=0.000693246 t=1444
+fei bo la qi shu lie 	菲薄拉起數列	c=2 d=0.00728401 t=1444
+fei bo la xi shu lie 	菲薄拉稀數列	c=1 d=0.00357068 t=1444
+fen bie 	分別	c=1 d=0.386741 t=1444
+fen ci 	粉刺	c=1 d=0.136695 t=1444
+fen qu 	分區	c=1 d=0.010358 t=1444
+fen wei 	分爲	c=1 d=0.0143357 t=1444
+feng 	封	c=1 d=0.111359 t=1444
+feng 	風	c=1 d=0.00307331 t=1444
+feng bi 	封閉	c=1 d=0.13466 t=1444
+feng bi xing 	封閉性	c=2 d=0.296195 t=1444
+feng huang 	鳳凰	c=0 d=0.00357931 t=1444
+feng huang gan you 	鳳凰甘油	c=1 d=0.0359725 t=1444
+feng mian 	封面	c=2 d=0.00750788 t=1444
+fu hao 	符號	c=1 d=0.343009 t=1444
+fu li 	福利	c=1 d=0.524663 t=1444
+fu wu duan 	服務端	c=1 d=0.00120654 t=1444
+gai cheng 	改成	c=1 d=0.00121866 t=1444
+gai nian 	概念	c=2 d=0.0619418 t=1444
+gan cui 	乾脆	c=1 d=0.748264 t=1444
+gan jue 	感覺	c=1 d=0.0992613 t=1444
+gan lie 	乾裂	c=3 d=0.13057 t=1444
+gan you 	甘油	c=17 d=1.375 t=1444
+gan zao 	乾燥	c=1 d=0.0665368 t=1444
+gao 	膏	c=2 d=0.00881551 t=1444
+gao ao 	高傲	c=1 d=0.00790705 t=1444
+gao deng 	高等	c=1 d=0.540641 t=1444
+gao ji 	高級	c=2 d=0.035116 t=1444
+gao yuan yuan 	高圓圓	c=1 d=0.00860854 t=1444
+ge 	個	c=1 d=0.0259911 t=1444
+ge li 	隔離	c=1 d=0.125556 t=1444
+ge shi 	格式	c=2 d=0.314991 t=1444
+ge zhong 	各種	c=2 d=0.719951 t=1444
+gen ju 	根據	c=1 d=0.0284388 t=1444
+geng 	更	c=6 d=1.21436 t=1444
+geng xin 	更新	c=2 d=0.0628627 t=1444
+gong shi 	公式	c=1 d=0.00341356 t=1444
+gong si 	公司	c=1 d=0.0015648 t=1444
+gou 	勾	c=1 d=0.66365 t=1444
+gou gu 	溝谷	c=0 d=0.0657047 t=1444
+gou gu ding lv 	溝谷定律	c=1 d=0.66034 t=1444
+gu 	股	c=1 d=0.666977 t=1444
+gu hua 	固化	c=0 d=0.000211225 t=1444
+guan 	官	c=2 d=0.0194241 t=1444
+guan dong di qu 	關東地區	c=1 d=0.00869506 t=1444
+guan fang 	官方	c=1 d=0.045275 t=1444
+guan yuan 	官員	c=1 d=0.00927901 t=1444
+guan zhi 	官職	c=1 d=0.00697795 t=1444
+guang min 	光敏	c=1 d=0.0773047 t=1444
+gui 	桂	c=1 d=0.00848038 t=1444
+guo 	國	c=2 d=0.00361787 t=1444
+guo 	過	c=2 d=0.466237 t=1444
+guo an 	國安	c=1 d=0.00177677 t=1444
+guo liang 	過量	c=1 d=0.174645 t=1444
+guo shi da gang 	國史大綱	c=2 d=1.80146 t=1444
+hai shi 	還是	c=1 d=0.0018734 t=1444
+hai you 	還有	c=0 d=0.0319819 t=1444
+hai you yi ge 	還有一個	c=1 d=0.321422 t=1444
+han 	漢	c=1 d=0.00673795 t=1444
+han guo 	韓國	c=1 d=0.0023344 t=1444
+han shu 	函數	c=1 d=0.657047 t=1444
+han you 	含有	c=1 d=0.0539337 t=1444
+hang ban 	航班	c=1 d=0.839457 t=1444
+hao 	好	c=3 d=0.250783 t=1444
+hao 	號	c=1 d=0.565525 t=1444
+hao yong 	好用	c=3 d=0.68463 t=1444
+he 	和	c=13 d=3.72132 t=1444
+he 	閡	c=1 d=0.0020601 t=1444
+he nan 	河南	c=1 d=0.355226 t=1444
+hei 	黑	c=1 d=0.0127147 t=1444
+hei ti 	黑體	c=4 d=0.100776 t=1444
+hen 	很	c=1 d=0.00786762 t=1444
+hen duo 	很多	c=1 d=0.186374 t=1444
+hen you 	很油	c=1 d=0.0997588 t=1444
+hong 	宏	c=5 d=0.123271 t=1444
+hong 	紅	c=3 d=0.857555 t=1444
+hong bao 	紅包	c=1 d=0.0322254 t=1444
+hou 	厚	c=1 d=0.0106202 t=1444
+hou 	後	c=4 d=0.0764489 t=1444
+hou gen 	後跟	c=1 d=0.119433 t=1444
+hou mian 	後面	c=3 d=0.0500041 t=1444
+hou zhe 	後者	c=1 d=0.0338776 t=1444
+hua sheng ke 	花生殼	c=1 d=0.847894 t=1444
+hua zhuang pin 	化妝品	c=1 d=0.0464212 t=1444
+huan jing 	環境	c=3 d=0.494531 t=1444
+hui 	會	c=2 d=0.07437 t=1444
+hui che jian 	回車鍵	c=1 d=0.310367 t=1444
+hui tu 	繪圖	c=1 d=0.00334597 t=1444
+hui yi lu 	回憶錄	c=3 d=2.84442 t=1444
+hun he 	混合	c=1 d=0.00219846 t=1444
+huo 	或	c=4 d=1.21827 t=1444
+huo qu 	獲取	c=1 d=0.00171216 t=1444
+huo zhe 	或者	c=1 d=0.574072 t=1444
+ji ju 	急劇	c=1 d=0.00326335 t=1444
+ji ke 	即可	c=3 d=0.0474609 t=1444
+ji ke yi 	既可以	c=1 d=0.20089 t=1444
+ji shi 	即使	c=1 d=0.173774 t=1444
+ji tian 	幾天	c=1 d=0.00494193 t=1444
+ji xu 	繼續	c=1 d=0.519442 t=1444
+jia ge 	價格	c=1 d=0.904837 t=1444
+jian ce 	檢測	c=1 d=0.822835 t=1444
+jian cheng 	建成	c=1 d=0.00336274 t=1444
+jian chi 	堅持	c=2 d=0.0115032 t=1444
+jian chi chi 	堅持吃	c=1 d=0.00582847 t=1444
+jian fan 	簡繁	c=1 d=0.00346515 t=1444
+jian shao 	減少	c=1 d=0.00603608 t=1444
+jian ti 	簡體	c=2 d=0.928514 t=1444
+jian yi 	建議	c=1 d=0.151829 t=1444
+jiao 	腳	c=1 d=0.118837 t=1444
+jiao cheng 	教程	c=2 d=0.293553 t=1444
+jie jue ban fa 	解決辦法	c=1 d=0.506617 t=1444
+jie mian 	界面	c=1 d=0.00114197 t=1444
+jie pou 	解剖	c=1 d=0.759572 t=1444
+jie ya 	解壓	c=1 d=0.000949097 t=1444
+jie ya suo 	解壓縮	c=1 d=0.000953854 t=1444
+jin 	緊	c=1 d=0.197899 t=1444
+jin liang 	儘量	c=3 d=0.380581 t=1444
+jing cha 	警察	c=1 d=0.913931 t=1444
+jing dian 	經典	c=2 d=0.00775571 t=1444
+jiu 	就	c=4 d=0.890275 t=1444
+jiu shi 	就是	c=1 d=0.167797 t=1444
+jiu you 	就有	c=1 d=0.0528657 t=1444
+jiu zao bi 	酒糟鼻	c=1 d=0.778801 t=1444
+ju 	劇	c=1 d=0.00386807 t=1444
+ju ti 	具體	c=2 d=0.0388929 t=1444
+ju you 	具有	c=1 d=0.211189 t=1444
+jue dui 	絕對	c=1 d=0.00104368 t=1444
+kai 	開	c=1 d=0.00433948 t=1444
+kai fa 	開發	c=1 d=0.0349094 t=1444
+ke hu duan 	客戶端	c=1 d=0.860708 t=1444
+ke jian 	可見	c=1 d=0.198891 t=1444
+ke neng 	可能	c=1 d=0.00548905 t=1444
+ke yi 	可以	c=6 d=1.51585 t=1444
+kong 	空	c=0 d=0.00587185 t=1444
+kong ge 	空格	c=1 d=0.000939653 t=1444
+kong gu 	控股	c=1 d=0.00329615 t=1444
+kong qi 	空氣	c=4 d=0.283976 t=1444
+kong qi zhong 	空其中	c=1 d=0.0590129 t=1444
+kuai 	塊	c=1 d=0.0518189 t=1444
+la 	啦	c=0 d=0.0299692 t=1444
+la qi 	拉起	c=0 d=0.000337959 t=1444
+la te xing 	啦特性	c=1 d=0.301194 t=1444
+la xi 	拉稀	c=0 d=0.000355287 t=1444
+lai 	來	c=2 d=0.65061 t=1444
+lai li 	來歷	c=1 d=0.00882647 t=1444
+lai zi 	來自	c=0 d=0.000755912 t=1444
+lai zi na li 	來自哪裏	c=1 d=0.00759701 t=1444
+lao 	老	c=1 d=0.865022 t=1444
+le 	了	c=3 d=0.489148 t=1444
+le shi 	樂事	c=1 d=0.00192083 t=1444
+lei 	類	c=1 d=0.00588705 t=1444
+lei xing 	類型	c=1 d=0.00182715 t=1444
+li 	裏	c=2 d=0.129973 t=1444
+li 	離	c=1 d=0.00733572 t=1444
+li bai 	李白	c=1 d=0.97531 t=1444
+li hai 	厲害	c=1 d=0.0880368 t=1444
+li ma 	立馬	c=1 d=0.0526021 t=1444
+li mian 	裏面	c=6 d=1.21583 t=1444
+li shi 	歷史	c=1 d=0.882497 t=1444
+li shi ju 	歷史劇	c=1 d=0.00396599 t=1444
+li si 	李斯	c=1 d=0.0072265 t=1444
+li zi 	例子	c=1 d=0.357007 t=1444
+lian 	臉	c=1 d=0.154896 t=1444
+lian xu 	連續	c=1 d=0.67032 t=1444
+liang 	兩	c=1 d=0.0144798 t=1444
+liang bian 	兩遍	c=2 d=0.98794 t=1444
+lie 	烈	c=1 d=0.00161548 t=1444
+ling sheng 	鈴聲	c=1 d=0.802519 t=1444
+liu bang 	劉邦	c=4 d=0.028072 t=1444
+lu 	盧	c=1 d=0.869358 t=1444
+luan ma 	亂碼	c=6 d=0.146189 t=1444
+ma 	嗎	c=10 d=1.11681 t=1444
+ma que 	麻雀	c=1 d=0.771052 t=1444
+man xing 	慢性	c=1 d=0.00554422 t=1444
+mang 	盲	c=1 d=0.00101791 t=1444
+mang fu 	莽夫	c=1 d=0.0081887 t=1444
+mang ren 	盲人	c=1 d=0.00138785 t=1444
+mei ci 	每次	c=1 d=0.142987 t=1444
+mei gong he 	湄公河	c=1 d=0.00226541 t=1444
+mei gui 	玫瑰	c=1 d=0.782705 t=1444
+mei mao 	眉毛	c=1 d=0.158025 t=1444
+mei you 	沒有	c=2 d=0.0461094 t=1444
+mei zhong 	每種	c=1 d=0.0193512 t=1444
+men 	們	c=1 d=0.00444934 t=1444
+ming 	名	c=3 d=1.39509 t=1444
+ming ling 	命令	c=7 d=1.07938 t=1444
+ming yue guang 	明月光	c=0 d=0.0965605 t=1444
+ming zi 	名字	c=3 d=0.460997 t=1444
+mo 	摸	c=2 d=0.275923 t=1444
+mo ban 	模板	c=1 d=0.044601 t=1444
+mo ren 	默認	c=15 d=1.20147 t=1444
+mo shi 	模式	c=1 d=0.00100779 t=1444
+mu lu 	目錄	c=1 d=0.516851 t=1444
+mu shi 	牧師	c=1 d=0.774916 t=1444
+na ge 	那個	c=1 d=0.559898 t=1444
+na li 	哪裏	c=0 d=0.000755912 t=1444
+na me 	那麼	c=2 d=0.131855 t=1444
+na yang 	那樣	c=1 d=0.00509243 t=1444
+nan fang 	南方	c=1 d=0.0678809 t=1444
+nei he 	內核	c=2 d=0.0203571 t=1444
+neng li 	能力	c=2 d=0.17198 t=1444
+ni hao 	你好	c=7 d=2.01235 t=1444
+niao 	尿	c=1 d=0.179066 t=1444
+niao su 	尿素	c=10 d=0.703116 t=1444
+niu bian 	牛鞭	c=1 d=0.00763509 t=1444
+nong du 	濃度	c=1 d=0.100259 t=1444
+nong fu 	農夫	c=0 d=0.000946646 t=1444
+nong fu shan quan 	農夫山泉	c=1 d=0.00951391 t=1444
+nv ren 	女人	c=1 d=0.0105672 t=1444
+o 	哦	c=1 d=0.139457 t=1444
+pai ban 	排版	c=0 d=0.0375311 t=1444
+pai ban yao yi 	排版要義	c=1 d=0.377192 t=1444
+pai chu 	排除	c=1 d=0.1764 t=1444
+pai dao 	拍到	c=2 d=0.00739658 t=1444
+pei he 	配合	c=1 d=0.00516939 t=1444
+pei zhi 	配置	c=3 d=0.0160835 t=1444
+pi fu 	皮膚	c=8 d=0.81478 t=1444
+pi ru 	譬如	c=2 d=0.137719 t=1444
+pi yan 	屁眼	c=0 d=0.000900478 t=1444
+pi yan 	皮炎	c=1 d=0.00914087 t=1444
+pin lv 	頻率	c=1 d=0.00612731 t=1444
+ping yuan jun 	平原君	c=1 d=0.00149594 t=1444
+po cheng 	破城	c=1 d=0.00304273 t=1444
+po feng 	破風	c=1 d=0.00308872 t=1444
+pu tong 	普通	c=3 d=0.639563 t=1444
+qi 	慼	c=2 d=1.90268 t=1444
+qi ben yu 	慼本禹	c=2 d=1.82898 t=1444
+qi bing 	起兵	c=1 d=0.00748391 t=1444
+qi guai 	奇怪	c=1 d=0.398519 t=1444
+qi zhong 	其中	c=0 d=0.00587185 t=1444
+qian gui ze 	潛規則	c=1 d=0.909373 t=1444
+qian liang 	錢糧	c=1 d=0.00755912 t=1444
+qian yan 	前言	c=1 d=0.546074 t=1444
+qiang 	強	c=3 d=0.358185 t=1444
+qiao ji 	敲擊	c=1 d=0.373439 t=1444
+qie 	且	c=1 d=0.15259 t=1444
+qin 	秦	c=2 d=0.0044857 t=1444
+qing 	請	c=1 d=0.0434998 t=1444
+qing qing 	輕輕	c=1 d=0.00353515 t=1444
+qu bie 	區別	c=7 d=1.57749 t=1444
+quan ju 	全局	c=1 d=0.0403566 t=1444
+quan ming 	全名	c=1 d=0.514274 t=1444
+que qian 	缺錢	c=1 d=0.00690852 t=1444
+que shao 	缺少	c=1 d=0.00484407 t=1444
+ran er 	然而	c=1 d=0.50409 t=1444
+ran hou 	然後	c=1 d=0.472367 t=1444
+re feng 	熱風	c=1 d=0.683861 t=1444
+ren 	人	c=2 d=0.0764192 t=1444
+ren ke 	認可	c=1 d=0.00199922 t=1444
+ren ming 	人名	c=1 d=0.00891518 t=1444
+ri ji 	日記	c=1 d=0.951229 t=1444
+rong 	溶	c=13 d=3.66708 t=1444
+rong jie 	溶解	c=1 d=0.18452 t=1444
+rong jie xing 	溶解性	c=3 d=0.711368 t=1444
+rong yi 	容易	c=3 d=0.333955 t=1444
+rong yu 	溶於	c=4 d=0.813327 t=1444
+rong yu shui 	溶於水	c=1 d=0.247833 t=1444
+ru 	乳	c=2 d=0.00877154 t=1444
+ru 	如	c=3 d=0.17406 t=1444
+ru ci 	如此	c=0 d=0.000474815 t=1444
+ru gao 	乳膏	c=9 d=0.216729 t=1444
+ru guo 	如果	c=4 d=0.731329 t=1444
+ru he 	如何	c=9 d=2.0083 t=1444
+ruan hua 	軟化	c=1 d=0.11475 t=1444
+san guan 	三觀	c=1 d=0.00970611 t=1444
+san jiao 	三角	c=1 d=0.65377 t=1444
+shan po 	山坡	c=0 d=0.0293758 t=1444
+shan po rong 	山坡溶	c=1 d=0.29523 t=1444
+shan quan 	山泉	c=0 d=0.000946646 t=1444
+shang mian 	上面	c=2 d=0.596966 t=1444
+shao 	少	c=1 d=0.142274 t=1444
+shao liang 	少量	c=1 d=0.0800583 t=1444
+shao lin si 	少林寺	c=1 d=0.353455 t=1444
+shao yong 	少用	c=1 d=0.132655 t=1444
+she tou 	舌頭	c=1 d=0.00504176 t=1444
+she zhi 	設置	c=17 d=2.01075 t=1444
+she zhi cheng 	設置成	c=1 d=0.0368832 t=1444
+shen me 	什麼	c=6 d=1.04499 t=1444
+shen me shi qing 	什麼事情	c=3 d=0.0234647 t=1444
+shen shang 	身上	c=2 d=0.293719 t=1444
+shen shuai jie 	腎衰竭	c=2 d=0.0164226 t=1444
+sheng cheng 	生成	c=1 d=0.000997758 t=1444
+sheng ji 	升級	c=0 d=0.00162445 t=1444
+sheng ji hou 	升級後	c=1 d=0.0163259 t=1444
+sheng yin 	聲音	c=1 d=0.794534 t=1444
+shi 	是	c=31 d=2.69675 t=1444
+shi bie 	識別	c=2 d=0.438191 t=1444
+shi bu shi 	是不是	c=1 d=0.00782838 t=1444
+shi de qi fan 	適得其反	c=1 d=0.00514361 t=1444
+shi du 	溼度	c=1 d=0.062662 t=1444
+shi hao 	是好	c=1 d=0.995012 t=1444
+shi ji 	實際	c=1 d=0.0566989 t=1444
+shi ji shang 	實際上	c=2 d=0.0354581 t=1444
+shi liu jin zhi 	十六進制	c=1 d=0.000992781 t=1444
+shi qing 	事情	c=1 d=0.0110536 t=1444
+shi wu 	食物	c=1 d=0.187308 t=1444
+shi xiao 	失效	c=2 d=0.00339874 t=1444
+shi yong 	使用	c=7 d=0.230893 t=1444
+shi yong 	食用	c=1 d=0.172907 t=1444
+shi you 	石油	c=1 d=0.102797 t=1444
+shou 	受	c=1 d=0.128093 t=1444
+shou 	手	c=1 d=0.117655 t=1444
+shou 	收	c=1 d=0.0611149 t=1444
+shou dong 	手動	c=1 d=0.0319048 t=1444
+shou xin 	手心	c=1 d=0.0804596 t=1444
+shu 	書	c=1 d=0.88692 t=1444
+shu chu 	輸出	c=1 d=0.0214078 t=1444
+shu chu de 	輸出的	c=1 d=0.00128757 t=1444
+shu ju 	數據	c=1 d=0.0015415 t=1444
+shu lie 	數列	c=0 d=0.000693246 t=1444
+shu ru 	輸入	c=2 d=1.21007 t=1444
+shu ru fa 	輸入法	c=5 d=1.01192 t=1444
+shu sheng 	書生	c=0 d=0.0960789 t=1444
+shuang yin hao 	雙引號	c=1 d=0.603506 t=1444
+shui 	水	c=9 d=1.69822 t=1444
+shui fen 	水份	c=6 d=0.495588 t=1444
+shui fen 	水分	c=1 d=0.0596059 t=1444
+shui feng 	水封	c=1 d=0.108067 t=1444
+shui jiao qian 	睡覺前	c=2 d=0.077019 t=1444
+shui qian 	睡前	c=1 d=0.00538036 t=1444
+shuo 	說	c=2 d=0.21585 t=1444
+si kao 	思考	c=1 d=0.244143 t=1444
+si shui 	泗水	c=1 d=0.00800393 t=1444
+si shui ting zhang 	泗水亭長	c=1 d=0.00708341 t=1444
+si yuan 	思源	c=1 d=0.0324962 t=1444
+si yuan hei ti 	思源黑體	c=4 d=0.113508 t=1444
+song chao 	宋朝	c=1 d=0.755784 t=1444
+song ti 	宋體	c=5 d=0.13293 t=1444
+suan na 	酸鈉	c=1 d=0.0461896 t=1444
+sui 	隨	c=1 d=0.178173 t=1444
+sui ran 	雖然	c=1 d=0.055299 t=1444
+suo yi 	所以	c=2 d=0.289834 t=1444
+suo zhu 	鎖住	c=2 d=0.216084 t=1444
+ta 	他	c=3 d=0.0234642 t=1444
+ta 	它	c=2 d=0.397093 t=1444
+tai da 	太大	c=1 d=0.100761 t=1444
+tai kuai 	太快	c=1 d=0.0102037 t=1444
+te bie 	特別	c=1 d=0.00524752 t=1444
+te luo yi 	特洛伊	c=1 d=0.00447164 t=1444
+te shu 	特殊	c=2 d=0.0373759 t=1444
+te xing 	特性	c=0 d=0.0946955 t=1444
+te xing li 	特性裏	c=1 d=0.650509 t=1444
+ti 	提	c=1 d=0.0108797 t=1444
+ti lian 	提煉	c=1 d=0.10383 t=1444
+ti wai 	體外	c=1 d=0.177284 t=1444
+ti xing 	提省	c=1 d=0.00923273 t=1444
+tian 	甜	c=1 d=0.00960953 t=1444
+tian jia 	添加	c=1 d=0.0320647 t=1444
+ting zhang 	亭長	c=0 d=0.000704808 t=1444
+tong guo 	通過	c=3 d=1.57378 t=1444
+tong shi 	同時	c=3 d=0.11423 t=1444
+tou 	頭	c=0 d=0.00518189 t=1444
+tou ming 	透明	c=1 d=0.04573 t=1444
+tou pi 	頭皮	c=1 d=0.0502874 t=1444
+tou pi xie 	頭皮屑	c=2 d=0.104178 t=1444
+tu 	圖	c=2 d=0.640058 t=1444
+tu biao 	圖標	c=2 d=0.00168388 t=1444
+tu pian 	圖片	c=6 d=1.92823 t=1444
+tu zai 	塗在	c=1 d=0.0982736 t=1444
+tui jian 	推薦	c=2 d=0.0573831 t=1444
+tuo ye 	唾液	c=1 d=0.00506703 t=1444
+wa gong 	瓦工	c=0 d=0.000114769 t=1444
+wai jie 	外界	c=3 d=0.274343 t=1444
+wan 	完	c=1 d=0.318224 t=1444
+wan dou jia 	豌豆莢	c=1 d=0.843665 t=1444
+wan shan 	完善	c=1 d=0.000978001 t=1444
+wan shang 	晚上	c=1 d=0.0713613 t=1444
+wang 	王	c=2 d=0.00515808 t=1444
+wang qiao 	網橋	c=1 d=0.00172074 t=1444
+wei 	爲	c=1 d=0.0343896 t=1444
+wei guo 	魏國	c=1 d=0.00251621 t=1444
+wei he 	爲何	c=2 d=0.00360101 t=1444
+wei sheng su 	維生素	c=16 d=0.575993 t=1444
+wei zhi 	位置	c=1 d=0.00114769 t=1444
+wen 	文	c=1 d=0.367879 t=1444
+wen dang 	文檔	c=5 d=1.92039 t=1444
+wen jian 	文件	c=3 d=0.0613381 t=1444
+wen ti 	問題	c=2 d=0.00252796 t=1444
+wo 	我	c=2 d=0.00251863 t=1444
+wo de 	我的	c=2 d=1.41895 t=1444
+wu fa 	無法	c=7 d=0.937929 t=1444
+wu han 	武漢	c=1 d=0.00400585 t=1444
+wu ji 	無忌	c=1 d=0.00252883 t=1444
+wu ren wei 	誤認爲	c=1 d=0.075774 t=1444
+wu shang qi lei 	物傷其類	c=1 d=0.00249118 t=1444
+wu xia 	武俠	c=1 d=0.00887071 t=1444
+wu xian 	無限	c=2 d=0.00211894 t=1444
+wu xiao 	無效	c=1 d=0.035437 t=1444
+wu zi xu 	伍子胥	c=1 d=0.00250366 t=1444
+xi an 	西安	c=1 d=0.97531 t=1444
+xi fa shui 	洗髮水	c=1 d=0.0544757 t=1444
+xi feng 	西風	c=0 d=0.00015648 t=1444
+xi feng lie 	西風烈	c=10 d=0.0201031 t=1444
+xi lian 	洗臉	c=1 d=0.00606634 t=1444
+xi shi 	稀釋	c=1 d=0.082085 t=1444
+xi shou 	吸收	c=5 d=0.392425 t=1444
+xi shui 	吸水	c=1 d=0.0608101 t=1444
+xi tong 	系統	c=2 d=0.442114 t=1444
+xi wan 	洗完	c=0 d=0.00518189 t=1444
+xi wan tou 	洗完頭	c=1 d=0.0520787 t=1444
+xi zao 	洗澡	c=1 d=0.00609675 t=1444
+xia 	下	c=1 d=0.000973123 t=1444
+xia zai 	下載	c=4 d=1.7611 t=1444
+xian 	先	c=2 d=0.301677 t=1444
+xian 	線	c=1 d=0.00107547 t=1444
+xian shi 	顯示	c=6 d=0.0143789 t=1444
+xian yang 	咸陽	c=1 d=0.00737249 t=1444
+xian yu 	鹹魚	c=1 d=0.891366 t=1444
+xian zai 	現在	c=1 d=0.00134011 t=1444
+xiang liang 	項梁	c=2 d=0.0160215 t=1444
+xiang wang 	襄王	c=0 d=0.000246639 t=1444
+xiang yu 	項羽	c=2 d=0.0158966 t=1444
+xiao guo 	效果	c=4 d=0.0865177 t=1444
+xiao he 	蕭何	c=1 d=0.00711891 t=1444
+xiao lang hao 	小狼毫	c=2 d=0.00662939 t=1444
+xiao san 	小三	c=2 d=0.00747155 t=1444
+xiao tou 	小偷	c=1 d=0.918512 t=1444
+xie 	些	c=1 d=0.0258615 t=1444
+xie 	寫	c=2 d=1.46327 t=1444
+xie gang 	斜槓	c=1 d=0.000930303 t=1444
+xie ti 	斜體	c=2 d=0.0457597 t=1444
+xin 	新	c=3 d=0.0276383 t=1444
+xin ban 	新版	c=1 d=0.0274607 t=1444
+xin de 	心得	c=1 d=0.0138427 t=1444
+xin hao 	信號	c=1 d=0.00141589 t=1444
+xin wen zu 	新聞組	c=1 d=0.00153381 t=1444
+xing 	刑	c=1 d=0.0109296 t=1444
+xing 	性	c=11 d=1.89349 t=1444
+xing 	行	c=0 d=0.000900478 t=1444
+xing dong 	行動	c=1 d=0.00227676 t=1444
+xing ji 	星際	c=0 d=0.000271219 t=1444
+xing ji wang 	星際王	c=1 d=0.00272578 t=1444
+xiu gai 	修改	c=1 d=0.462974 t=1444
+xiu gai guo 	修改過	c=1 d=0.484325 t=1444
+xiu gai hou 	修改後	c=1 d=0.0271874 t=1444
+xu 	許	c=1 d=0.0096577 t=1444
+xu yao 	需要	c=1 d=0.000934966 t=1444
+xuan ci 	選詞	c=1 d=0.980199 t=1444
+xuan ze 	選擇	c=1 d=0.33454 t=1444
+xue xi 	學習	c=1 d=0.522046 t=1444
+yang 	楊	c=1 d=0.00975476 t=1444
+yang guang 	陽光	c=1 d=0.00546167 t=1444
+yao 	要	c=2 d=0.162738 t=1444
+yao cai 	藥材	c=1 d=0.00806679 t=1444
+yao yi 	要義	c=0 d=0.0375311 t=1444
+ye 	也	c=3 d=0.261672 t=1444
+ye 	頁	c=3 d=0.237241 t=1444
+ye ce shi 	頁測試	c=1 d=0.0399551 t=1444
+ye cheng 	也稱	c=1 d=0.101774 t=1444
+ye hui 	也會	c=1 d=0.17552 t=1444
+ye jiu shi 	也就是	c=1 d=0.209088 t=1444
+ye ke yi 	也可以	c=1 d=0.204948 t=1444
+ye mian 	頁面	c=1 d=0.341298 t=1444
+yi 	易	c=1 d=0.246597 t=1444
+yi 	疑	c=1 d=0.995012 t=1444
+yi 	譯	c=1 d=0.00282287 t=1444
+yi ceng 	一層	c=1 d=0.145148 t=1444
+yi ge 	一個	c=2 d=0.44517 t=1444
+yi hao 	一號	c=2 d=0.0812021 t=1444
+yi jie 	一屆	c=0 d=0.0960789 t=1444
+yi jie shu sheng 	一屆書生	c=1 d=0.965605 t=1444
+yi jing 	已經	c=1 d=0.0277367 t=1444
+yi lai 	依賴	c=1 d=0.316637 t=1444
+yi sheng 	醫生	c=1 d=0.00568457 t=1444
+yi xia 	一下	c=1 d=0.130774 t=1444
+yi you 	已有	c=1 d=0.124307 t=1444
+yi yu zheng 	抑鬱症	c=1 d=0.826959 t=1444
+yi yuan 	醫院	c=2 d=0.0088119 t=1444
+yi zhi 	一直	c=1 d=0.00129402 t=1444
+yi zhong 	一種	c=1 d=0.0198411 t=1444
+yin 	引	c=1 d=0.451581 t=1444
+yin biao 	音標	c=4 d=0.0105296 t=1444
+yin chun 	陰脣	c=1 d=0.0107807 t=1444
+yin hao 	引號	c=5 d=2.25349 t=1444
+yin qi 	引起	c=1 d=0.136014 t=1444
+yin qing 	引擎	c=1 d=0.722527 t=1444
+yin wei 	因爲	c=1 d=0.0380064 t=1444
+yin yong 	引用	c=3 d=1.79821 t=1444
+ying 	英	c=1 d=0.366045 t=1444
+ying wen 	英文	c=6 d=1.26664 t=1444
+ying xiang 	影響	c=1 d=0.130029 t=1444
+yong 	用	c=11 d=2.79639 t=1444
+yong liang 	用量	c=2 d=0.279619 t=1444
+yong yu 	用於	c=3 d=0.39556 t=1444
+you 	有	c=7 d=0.496953 t=1444
+you 	油	c=2 d=0.152945 t=1444
+you de 	有的	c=1 d=0.07502 t=1444
+you dian er 	有點兒	c=1 d=0.0095616 t=1444
+you jian 	郵件	c=1 d=0.856415 t=1444
+you mei you 	有沒有	c=1 d=0.00479587 t=1444
+you xia jiao 	右下角	c=1 d=0.00311976 t=1444
+yu 	於	c=6 d=1.32163 t=1444
+yu 	禹	c=1 d=0.946485 t=1444
+yu dao 	遇到	c=1 d=0.00117675 t=1444
+yu sheng 	餘生	c=1 d=0.00165327 t=1444
+yuan 	源	c=0 d=0.000474815 t=1444
+yuan 	遠	c=1 d=0.00740944 t=1444
+yuan ru ci 	源如此	c=1 d=0.00477195 t=1444
+yuan shi 	原始	c=0 d=0.00153752 t=1444
+yue pao 	約炮	c=1 d=0.00213348 t=1444
+yun xing 	運行	c=1 d=0.00125578 t=1444
+za zhi 	雜誌	c=1 d=0.00327971 t=1444
+zai 	再	c=2 d=0.0984191 t=1444
+zai 	在	c=3 d=0.574265 t=1444
+ze 	則	c=2 d=1.18637 t=1444
+zen me yang 	怎麼樣	c=1 d=0.00155699 t=1444
+zhan dou li 	戰鬥力	c=1 d=0.00852289 t=1444
+zhan si 	戰死	c=1 d=0.00831246 t=1444
+zhang liang 	張良	c=1 d=0.00719046 t=1444
+zhao 	昭	c=0 d=0.000246639 t=1444
+zhao bu dao 	找不到	c=2 d=0.0243774 t=1444
+zhao gao 	趙高	c=1 d=0.00726273 t=1444
+zhao kuo 	趙括	c=1 d=0.00218749 t=1444
+zhao xiang wang 	昭襄王	c=1 d=0.00247875 t=1444
+zhe 	這	c=1 d=0.571209 t=1444
+zhe ge 	這個	c=6 d=0.440489 t=1444
+zhe jia huo 	這傢伙	c=1 d=0.133989 t=1444
+zhe jiang 	浙江	c=2 d=0.00752746 t=1444
+zhe li 	這裏	c=1 d=0.024234 t=1444
+zhe shi 	這是	c=5 d=0.0747882 t=1444
+zhe xie 	這些	c=1 d=0.0241131 t=1444
+zheng chang 	正常	c=1 d=0.00200924 t=1444
+zheng fa 	蒸發	c=1 d=0.0948935 t=1444
+zheng rong 	整容	c=1 d=0.0098528 t=1444
+zheng wen 	正文	c=1 d=0.0411719 t=1444
+zhi 	值	c=2 d=0.00251823 t=1444
+zhi 	質	c=1 d=0.0459593 t=1444
+zhi bu guo 	只不過	c=1 d=0.0175097 t=1444
+zhi chi 	支持	c=6 d=0.8685 t=1444
+zhi ding 	制定	c=1 d=0.0130365 t=1444
+zhi ding 	指定	c=1 d=0.0131019 t=1444
+zhi fang 	脂肪	c=5 d=1.1482 t=1444
+zhi jia 	指甲	c=1 d=0.118245 t=1444
+zhi jian 	之間	c=1 d=0.628135 t=1444
+zhi jie 	直接	c=1 d=0.474734 t=1444
+zhi nan 	指南	c=1 d=0.360595 t=1444
+zhi neng 	只能	c=2 d=0.521223 t=1444
+zhi shi 	只是	c=1 d=0.00337959 t=1444
+zhi wu 	職務	c=1 d=0.0071546 t=1444
+zhi yi 	之一	c=0 d=0.000900478 t=1444
+zhi yi xing pi yan 	之一行屁眼	c=1 d=0.00904991 t=1444
+zhong 	中	c=4 d=0.659236 t=1444
+zhong cheng 	忠誠	c=3 d=0.00317847 t=1444
+zhong da 	重大	c=1 d=0.0309618 t=1444
+zhong duan 	終端	c=2 d=0.83413 t=1444
+zhong gu hua 	中固化	c=1 d=0.00212284 t=1444
+zhong guo 	中國	c=1 d=0.0129068 t=1444
+zhong lao 	終老	c=1 d=0.00166989 t=1444
+zhong wen 	中文	c=18 d=1.1008 t=1444
+zhong wen ce shi 	中文測試	c=1 d=0.0129715 t=1444
+zhong wen zi ti 	中文字體	c=1 d=0.0405589 t=1444
+zhong xin 	中心	c=1 d=0.00154923 t=1444
+zhong yao 	中藥	c=1 d=0.00835412 t=1444
+zhong yao 	重要	c=1 d=0.0315873 t=1444
+zhong ying wen 	中英文	c=1 d=0.392586 t=1444
+zhu 	住	c=1 d=0.111917 t=1444
+zhu yao 	主要	c=1 d=0.225373 t=1444
+zhuan huan 	轉換	c=2 d=0.00640595 t=1444
+zhuan men 	專門	c=1 d=0.0342181 t=1444
+zhuang yang 	壯陽	c=1 d=0.00767337 t=1444
+zhui xiong 	追兇	c=1 d=0.00111936 t=1444
+zi 	紫	c=1 d=0.00980366 t=1444
+zi di 	子弟	c=1 d=0.00798652 t=1444
+zi dian 	字典	c=1 d=0.00278085 t=1444
+zi ti 	字體	c=30 d=4.41961 t=1444
+zi ti zu 	字體族	c=2 d=0.886387 t=1444
+zi yang 	字樣	c=1 d=0.160414 t=1444
+zu 	族	c=2 d=0.959852 t=1444
+zu zhi 	組織	c=1 d=0.00332928 t=1444
+zui 	最	c=0 d=0.00153752 t=1444
+zui chun 	嘴脣	c=5 d=0.298831 t=1444
+zui shao 	最少	c=2 d=0.746723 t=1444
+zui yuan shi 	最原始	c=3 d=0.0553137 t=1444
+zuo yong 	作用	c=3 d=0.942506 t=1444
+zuo yong bu da 	作用不大	c=1 d=0.0057417 t=1444
