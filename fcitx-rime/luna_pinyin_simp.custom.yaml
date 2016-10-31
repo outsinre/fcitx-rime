@@ -1,5 +1,5 @@
 patch:
-  translator/dictionary: luna_pinyin_simp.zh-cn
+  translator/dictionary: phrases_smp_all
   engine/translators:
     - punct_translator
     - r10n_translator
