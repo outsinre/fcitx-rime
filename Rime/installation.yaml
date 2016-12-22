@@ -1,8 +1,8 @@
 distribution_code_name: "fcitx-rime"
 distribution_name: Rime
 distribution_version: 0.2.3
-install_time: "Sun Sep 25 16:09:28 2016"
+install_time: "Thu Dec 22 13:31:50 2016"
 installation_id: "fcitx-rime"
 rime_version: 1.2.0
-sync_dir: "/home/outsinre/opt/rimesync"
+sync_dir: "~/opt/rimesync"
       

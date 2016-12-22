@@ -1,1 +1,1 @@
-Fcitx Rime config
+Rime config sync
