@@ -3,7 +3,7 @@
 #@/db_type	userdb
 #@/rime_version	1.2.0
 #@/tick	3
-#@/user_id	fcitx-rime
+#@/user_id	Rime
 ru he 	如何	c=2 d=1.99005 t=3
 xiao man 	小曼	c=0 d=0.099005 t=3
 xiao man yao 	小曼要	c=1 d=0.995012 t=3

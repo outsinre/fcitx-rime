@@ -2,5 +2,7 @@
 #@/db_name	phrases_smp_all.userdb.kct
 #@/db_type	userdb
 #@/rime_version	1.2.0
-#@/tick	0
-#@/user_id	fcitx-rime
+#@/tick	2
+#@/user_id	Rime
+shen me 	什麼	c=1 d=1 t=2
+zhe shi 	這是	c=1 d=0.995012 t=2
