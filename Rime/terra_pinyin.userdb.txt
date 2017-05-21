@@ -1,0 +1,17 @@
+# Rime user dictionary
+#@/db_name	terra_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	14
+#@/user_id	Rime
+bi3 jiao4 	比較	c=1 d=1 t=11
+dang1 shi2 	當時	c=1 d=1 t=13
+ji4 de5 	記得	c=1 d=1 t=12
+kong1 wang2 	空王	c=1 d=1 t=14
+ru2 	如	c=2 d=1.99501 t=6
+shang4 	上	c=1 d=1 t=9
+sheng1 diao4 	聲調	c=2 d=1.99501 t=3
+shu1 ru4 	輸入	c=2 d=1.98511 t=4
+shu1 ru4 fa3 	輸入法	c=1 d=1 t=7
+zen3 me5 yang4 	怎麼樣	c=1 d=1 t=8
+zhong1 wen2 shu1 ru4 fa3 	中文輸入法	c=1 d=1 t=10
