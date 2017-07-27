@@ -1,0 +1,39 @@
+patch:
+  # 3rd-party dictionary
+  translator/dictionary: luna_pinyin_simp.fcitx
+
+  # Input symbols with `/xl', `/fh' etc.
+  punctuator/import_preset: symbols
+  recognizer/patterns/punct: "^/([A-Z|a-z]*|[0-9]|10)$"
+
+  ## Chinese English mix
+  ## Require `easy_en.schema.yaml' and `easy_en.dict.ymal'
+  # Depending on `easy_en' schema
+  schema/dependencies/@next: easy_en
+  # Add a `table_translator', named as 'english'
+  engine/translators/@next: table_translator@english
+  # Definition of 'english' translator
+  english:
+    dictionary: easy_en
+    spelling_hints: 9
+    enable_completion: true
+    enable_sentence: false
+    initial_quality: -1
+  
+  ## emoji
+  engine/translators:
+    - punct_translator
+    - r10n_translator
+    - reverse_lookup_translator
+  recognizer/patterns/reverse_lookup: "`[a-z]*$"
+  schema/dependencies:
+    - emoji
+  ## Avoiding emoji in candidate list
+  abc_segmentor/extra_tags: {}
+  # abc_segmentor/extra_tags:
+  #   - reverse_lookup
+  reverse_lookup:
+    dictionary: emoji
+    enable_completion: false
+    prefix: "`"
+    tips: 〔表情〕
