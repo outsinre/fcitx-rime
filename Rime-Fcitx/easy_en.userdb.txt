@@ -2,8 +2,9 @@
 #@/db_name	easy_en.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	3
+#@/tick	4
 #@/user_id	Rime-Fcitx
-chrome 	chrome	c=1 d=0.995012 t=3
-hello 	hello	c=1 d=0.99005 t=3
-jim 	jim	c=1 d=1 t=3
+chrome 	chrome	c=1 d=0.995012 t=4
+git 	git	c=1 d=1 t=4
+hello 	hello	c=1 d=0.99005 t=4
+jim 	jim	c=1 d=1 t=4
