@@ -93,6 +93,7 @@ shang 	上	c=5 d=3.56154 t=290
 shang mian 	上面	c=1 d=0.621885 t=290
 shang suo 	上鎖	c=1 d=0.923116 t=290
 she zhi 	設置	c=4 d=3.30453 t=290
+shen me 	什麼	c=1 d=1 t=2
 shi 	是	c=7 d=4.40758 t=290
 shi 	時	c=3 d=1.96514 t=290
 shi yong 	使用	c=1 d=0.565525 t=290
@@ -140,6 +141,7 @@ zai 	在	c=6 d=3.94791 t=290
 zhao bu dao 	找不到	c=1 d=0.970446 t=290
 zhe 	這	c=2 d=1.95072 t=290
 zhe ge 	這個	c=2 d=1.52139 t=290
+zhe shi 	這是	c=1 d=1 t=1
 zhe zhong 	這種	c=1 d=0.606531 t=290
 zhi 	值	c=2 d=1.97032 t=290
 zhi 	指	c=1 d=0.955997 t=290
