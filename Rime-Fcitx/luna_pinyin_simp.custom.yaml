@@ -28,8 +28,7 @@ patch:
   recognizer/patterns/reverse_lookup: "`[a-z]*$"
   schema/dependencies:
     - emoji
-  ## Avoiding emoji in candidate list
-  abc_segmentor/extra_tags: {}
+  ## Annoying emoji in candidate list
   # abc_segmentor/extra_tags:
   #   - reverse_lookup
   reverse_lookup:
