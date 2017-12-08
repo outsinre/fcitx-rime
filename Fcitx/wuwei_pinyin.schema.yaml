@@ -1,0 +1,280 @@
+## Rime schema
+## encoding: utf-8
+##
+## https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
+## https://github.com/rime/home/wiki/RimeWithSchemata
+## https://github.com/rime-aca/rime-cangjie6/blob/master/cangjie6.schema.yaml
+## https://gist.github.com/ipcjs/cb527f85e027d7927ef3e42a0602ddf5
+##
+## 反查有两种实现方式：
+## 1. reverse_lookup_translator (< rime 1.0);
+## 2. affix_segmentor, {table,script}_translator, reverse_lookup_filter三者相结合(>= rime 1.0)。
+##
+## table_translator基于码表的翻译器，有码长限制，词库不带空格（包括easy_en）。譬如五笔的词库，不管是单字、词都是最多四个连续字母；
+## script_translator基于音节表的脚本翻译器，码长无限制，词库带空格。如朙月拼音里每一个字对应一个拼音，多个拼音用空格隔开。
+##
+## 词库分三类：
+## 1. 用户自定义词组custom_phrase.txt;
+## 2. 用户输入习惯积累词库userdb.txt;
+## 3. dict.yaml生成的二进制词库.bin.
+
+schema:
+  schema_id: wuwei_pinyin
+  name: "无为拼音"
+  version: "0.1"
+  author:
+    - "无为"
+  description: |
+    带声调拼音；英文、emoji、五笔混合输入；五笔反查显示声调
+  dependencies:
+    - easy_en
+    - emoji
+    - wubi06 # 五笔反查
+
+switches:
+  - name: zh_simp
+    reset: 1
+    states: [ 漢字, 汉字 ]
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@emoji_lookup
+    - affix_segmentor@wubi06_lookup
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase # 小型用户自定义词组custom_phrase.txt
+    - script_translator # 主拼音translator
+    - table_translator@english
+    - script_translator@emoji_lookup
+    - table_translator@wubi06_lookup
+  filters:
+    - simplifier
+    - uniquifier
+    - reverse_lookup_filter@emoji_reverse_lookup
+    - reverse_lookup_filter@wubi06_reverse_lookup
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([A-Z|a-z]*|[0-9]|10)$"
+    emoji_lookup: "^`[a-z]*'?$"
+    wubi06_lookup: "^\\\\[a-z]*'?$" # 双引号里的正则需要额外释义\，所以四个
+
+key_binder:
+  import_preset: default
+  bindings: # 新定义的开关zh_simp
+    - { when: always, accept: Control+Shift+4, toggle: zh_simp }
+    - { when: always, accept: Control+Shift+dollar, toggle: zh_simp }
+    - { when: has_menu, accept: minus, send: minus }  # 第一声，默认fcitx会占用来翻页
+
+speller:
+  alphabet: 'zyxwvutsrqponmlkjihgfedcba-;/<,>\'
+  initials: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - erase/^xx$/
+    - xform/^r5$/er5/
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([zcs]h).+$/$1/
+    - derive/^([nl])ve/$1ue/
+    - derive/^([jqxy])u/$1v/
+    - derive/un$/uen/
+    - derive/ui/uei/
+    - derive/iu/iou/
+    - derive/ao/oa/
+    - derive/([aeiou])ng/$1gn/
+    - derive/([iu])a(o|ng?)/a$1$2/
+    - derive/^([a-z]+)[0-5]$/$1/
+    - derive/([dtngkhrzcs])o(u|ng)$/$1o/
+    - derive/ong$/on/
+    - 'erase/^.*5$/'
+    - 'xlit 1234 -/<\'
+    - 'derive/^(.*)-$/$1;/'
+    - 'derive/^(.*)<$/$1,/'
+    - 'derive/^(.*)\\$/$1>/'
+
+punctuator:
+  import_preset: symbols
+
+## 反查也出现在候选里；如果觉得干扰太大，可以降低initial_quality或者干脆移除
+## english translator 单独定义不需要额外指定
+##
+# abc_segmentor/extra_tags:
+#   - emoji_lookup
+#   - wubi06_lookup
+## 用下面的写法，否则单字声调提示没有了（估计是bug）
+abc_segmentor:
+  extra_tags:
+    - emoji_lookup
+    - wubi06_lookup
+
+translator:
+  dictionary: wuwei_pinyin
+  prism: wuwei_pinyin
+  enable_sentence: true
+  spelling_hints: 9
+  initial_quality: 1 # 默认朙月简体优先级最高，候选排在最前面
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+    - xform/eh/ê/
+    - 'xform ([aeiou])(ng?|r)([-;/<,>\\]) $1$3$2'
+    - 'xform ([aeo])([iuo])([-;/<,>\\]) $1$3$2'
+    - 'xform a[-;] ā'
+    - 'xform a/ á'
+    - 'xform a[<,] ǎ'
+    - 'xform a[>\\] à'
+    - 'xform e[-;] ē'
+    - 'xform e/ é'
+    - 'xform e[<,] ě'
+    - 'xform e[>\\] è'
+    - 'xform o[-;] ō'
+    - 'xform o/ ó'
+    - 'xform o[<,] ǒ'
+    - 'xform o[>\\] ò'
+    - 'xform i[-;] ī'
+    - 'xform i/ í'
+    - 'xform i[<,] ǐ'
+    - 'xform i[>\\] ì'
+    - 'xform u[-;] ū'
+    - 'xform u/ ú'
+    - 'xform u[<,] ǔ'
+    - 'xform u[>\\] ù'
+    - 'xform ü[-;] ǖ'
+    - 'xform ü/ ǘ'
+    - 'xform ü[<,] ǚ'
+    - 'xform ü[>\\] ǜ'
+  comment_format:
+    - xform ([aeiou])(ng?|r)([1234]) $1$3$2
+    - xform ([aeo])([iuo])([1234]) $1$3$2
+    - xform a1 ā
+    - xform a2 á
+    - xform a3 ǎ
+    - xform a4 à
+    - xform e1 ē
+    - xform e2 é
+    - xform e3 ě
+    - xform e4 è
+    - xform o1 ō
+    - xform o2 ó
+    - xform o3 ǒ
+    - xform o4 ò
+    - xform i1 ī
+    - xform i2 í
+    - xform i3 ǐ
+    - xform i4 ì
+    - xform u1 ū
+    - xform u2 ú
+    - xform u3 ǔ
+    - xform u4 ù
+    - xform v1 ǖ
+    - xform v2 ǘ
+    - xform v3 ǚ
+    - xform v4 ǜ
+    - xform/([nljqxy])v/$1ü/
+    - xform/eh[0-5]?/ê/
+    - xform/([a-z]+)[0-5]/$1/
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+## table_translator@english实现中英混合输入
+## 不需要加入到abc_segmentor/extra_tags里面
+english:
+  dictionary: easy_en
+  enable_completion: true
+  enable_sentence: false
+  initial_quality: 0.3
+
+## affix_segmentor@emoji_lookup and script_translator@emoji_lookup
+## segmentor和translator同名时可以合并；如果分开定义，则类似english自动出现在候选里
+emoji_lookup:
+  tag: emoji_lookup
+  tips: "〔颜文字〕"
+  prefix: "`"
+  suffix: "'"
+  dictionary: emoji
+  enable_sentence: false
+  spelling_hints: 9 # 只适用于script_translator
+  initial_quality: 0.1
+## reverse_lookup_filter@emoji_reverse_lookup
+emoji_reverse_lookup:
+  tags: [ emoji_lookup ]
+  overwrite_comment: true
+  dictionary: emoji
+
+## affix_segmentor@wubi06_lookup and table_translator@wubi06_lookup
+wubi06_lookup:
+  tag: wubi06_lookup
+  tips: "〔五笔〕"
+  prefix: "\\" # 需要escape释义
+  suffix: "'"
+  dictionary: wubi06
+  enable_completion: true
+  enable_sentence: false
+  initial_quality: 0.1
+## reverse_lookup_filter@wubi06_reverse_lookup
+wubi06_reverse_lookup:
+  tags: [ wubi06_lookup ]
+  overwrite_comment: true
+  dictionary: wuwei_pinyin # 反查提示为拼音声调
+  comment_format:
+    - xform ([aeiou])(ng?|r)([1234]) $1$3$2
+    - xform ([aeo])([iuo])([1234]) $1$3$2
+    - xform a1 ā
+    - xform a2 á
+    - xform a3 ǎ
+    - xform a4 à
+    - xform e1 ē
+    - xform e2 é
+    - xform e3 ě
+    - xform e4 è
+    - xform o1 ō
+    - xform o2 ó
+    - xform o3 ǒ
+    - xform o4 ò
+    - xform i1 ī
+    - xform i2 í
+    - xform i3 ǐ
+    - xform i4 ì
+    - xform u1 ū
+    - xform u2 ú
+    - xform u3 ǔ
+    - xform u4 ù
+    - xform v1 ǖ
+    - xform v2 ǘ
+    - xform v3 ǚ
+    - xform v4 ǜ
+    - xform/([nljqxy])v/$1ü/
+    - xform/eh[0-5]?/ê/
+    - xform/([a-z]+)[0-5]/$1/
+
+simplifier:
+  option_name: zh_simp

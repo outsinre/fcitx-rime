@@ -1,8 +1,0 @@
-# default.custom.yaml
-
-patch:
-  menu/page_size: 9
-  switcher/hotkeys:
-    - "Control+grave"
-  schema_list:
-    - schema: luna_pinyin_simp

@@ -1,0 +1,74 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	76
+#@/user_id	Fcitx
+biao 	表	c=1 d=0.965605 t=76
+bu shu 	部署	c=1 d=0.932394 t=76
+cha 	查	c=1 d=0.995012 t=76
+chang 	長	c=0 d=0.097531 t=76
+chuang jian 	創建	c=1 d=0.895834 t=76
+dan zi 	單字	c=1 d=0.865022 t=76
+de 	的	c=6 d=5.11781 t=76
+ding yi 	定義	c=0 d=0.0985112 t=76
+fan cha 	反查	c=3 d=2.98012 t=76
+fan xie gang 	反斜槓	c=1 d=0.995012 t=76
+fan yi 	翻譯	c=0 d=0.0927743 t=76
+fan yi qi 	翻譯器	c=2 d=1.87416 t=76
+fou ze 	否則	c=1 d=0.860708 t=76
+ge shi 	格式	c=1 d=0.946485 t=76
+gu ji 	估計	c=1 d=0.88692 t=76
+ji yu 	基於	c=2 d=1.90248 t=76
+jiao ben 	腳本	c=1 d=0.937067 t=76
+kai guan 	開關	c=1 d=1 t=76
+kong 	空	c=1 d=0.970446 t=76
+le 	了	c=1 d=0.882497 t=76
+li shan 	李善	c=0 d=0.097531 t=76
+li shan chang 	李善長	c=1 d=0.980199 t=76
+ling jing 	菱鏡	c=1 d=0.995012 t=76
+ma 	碼	c=1 d=0.980199 t=76
+ma biao 	碼錶	c=1 d=0.927743 t=76
+ma chang 	碼長	c=1 d=0.99005 t=76
+mei you 	沒有	c=1 d=0.878095 t=76
+ming yue 	明月	c=1 d=0.99005 t=76
+mu di 	目的	c=1 d=0.913931 t=76
+na shi shui a 	那是誰啊	c=1 d=0.995012 t=76
+ni 	你	c=0 d=0.083527 t=76
+ni hao 	你好	c=2 d=1.95551 t=76
+ni hao a 	你好啊	c=1 d=0.918797 t=76
+ni hao a ni shi shui ni qu si ba 	你好啊你是誰你去死吧	c=1 d=0.839457 t=76
+ni shi shui 	你是誰	c=0 d=0.083527 t=76
+pai xu 	排序	c=1 d=0.960789 t=76
+qi 	器	c=0 d=0.0927743 t=76
+qu bie 	區別	c=1 d=0.923116 t=76
+qu si ba 	去死吧	c=0 d=0.083527 t=76
+rang 	讓	c=1 d=0.923116 t=76
+she zhi 	設置	c=1 d=0.99005 t=76
+shen me 	什麼	c=1 d=0.985112 t=76
+sheng cheng 	生成	c=1 d=0.941765 t=76
+sheng diao 	聲調	c=2 d=1.86936 t=76
+shi 	是	c=3 d=2.63271 t=76
+shi 	時	c=1 d=0.937067 t=76
+ti shi 	提示	c=1 d=0.873716 t=76
+tian xia da shi 	天下大事	c=1 d=1 t=76
+tong yi 	統一	c=1 d=0.951229 t=76
+wen jian 	文件	c=3 d=2.70154 t=76
+wu 	無	c=1 d=0.995012 t=76
+xia mian 	下面	c=1 d=0.847894 t=76
+xian zhi 	限制	c=2 d=1.98511 t=76
+xie fa 	寫法	c=1 d=0.856415 t=76
+xin 	新	c=0 d=0.0985112 t=76
+xin ding yi 	新定義	c=1 d=0.99005 t=76
+xue 	學	c=1 d=0.97531 t=76
+yin jie 	音節	c=1 d=0.960789 t=76
+ying wen 	英文	c=1 d=0.995012 t=76
+yong 	用	c=1 d=0.843665 t=76
+you 	有	c=1 d=0.97531 t=76
+zai 	在	c=1 d=0.927743 t=76
+zen me 	怎麼	c=1 d=0.985112 t=76
+zhe ge 	這個	c=1 d=0.900325 t=76
+zhi chi 	支持	c=1 d=0.995012 t=76
+zhong guo 	中國	c=2 d=1.99501 t=76
+zhong ying wen 	中英文	c=1 d=1 t=76
+zhu yuan zhang 	朱元璋	c=1 d=0.985112 t=76

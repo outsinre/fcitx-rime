@@ -1,0 +1,19 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 词库不能递归导入（import_tables），只能迭代：
+# 如a导入b，b在再导入c是不行德，而应该是a分别导入b、c。
+# 这是因为import_tables时，实际只导入词库的词条部分，而词库开头
+# 的配置（如b词库的use_preset_vocabulary，import_tables）会被忽略。
+
+---
+name: wuwei_pinyin
+version: "2017.10.31"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - terra_pinyin
+  - zhyydcd_tra
+  - ext
+...
+

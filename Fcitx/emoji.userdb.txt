@@ -1,0 +1,14 @@
+# Rime user dictionary
+#@/db_name	emoji.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	11
+#@/user_id	Fcitx
+chicken,ji;sheng'xiao`zodiac 	🐔	c=1 d=0.995012 t=11
+evil;tou`head 	👿	c=1 d=0.995012 t=11
+laugh,happy;biao'qing 	😂	c=1 d=0.99005 t=11
+lettera,roundsqr;zi'mu`bloodtype abckward,ui;jianyou 	🅰⏩	c=1 d=1 t=11
+money;qian`money italy,country;guo 	💰🇮🇹	c=1 d=0.985112 t=11
+one,clock;zhong spain,country;guo ok;shou`hand money;qian`money 	🕐🇪🇸👌💰	c=1 d=0.995012 t=11
+tiger,hu;sheng'xiao`zodiac 	🐯	c=3 d=2.97516 t=11
+video,game;you'xi 	🎮	c=2 d=1.99501 t=11

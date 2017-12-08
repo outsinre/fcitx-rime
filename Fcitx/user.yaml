@@ -1,0 +1,16 @@
+var:
+  option:
+    ascii_punct: false
+    extended_charset: false
+    full_shape: false
+    simplification: true
+  previously_selected_schema: wuwei_pinyin
+  schema_access_time:
+    easy_en: 1503501335
+    luna_pinyin: 1504683686
+    luna_pinyin_simp: 1504698208
+    terra_pinyin: 1504698221
+    test: 1504591971
+    wubi06: 1509682088
+    wuwei_pinyin: 1509721945
+    ww_py: 1504591862

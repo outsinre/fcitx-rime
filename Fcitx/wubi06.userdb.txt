@@ -1,0 +1,636 @@
+# Rime user dictionary
+#@/db_name	wubi06.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	397
+#@/user_id	Fcitx
+a 	工	c=9 d=7.80336 t=397
+aa 	式	c=1 d=0.955997 t=397
+aaaa 	工	c=3 d=2.56908 t=397
+ab 	节	c=1 d=1 t=397
+adf 	苦	c=2 d=1.64156 t=397
+adwt 	蓁	c=1 d=0.831104 t=397
+adwu 	其	c=1 d=0.740818 t=397
+aib 	范	c=1 d=0.900325 t=397
+amw 	黄	c=1 d=0.810584 t=397
+anv 	世	c=2 d=1.98506 t=397
+ao 	蔗	c=2 d=1.64858 t=397
+aqto 	荻	c=1 d=0.951229 t=397
+ar 	区	c=1 d=0.729789 t=397
+aynk 	荒	c=1 d=0.826959 t=397
+b 	子	c=1 d=1 t=397
+bai 	陈	c=3 d=2.53547 t=397
+bfi 	际	c=2 d=1.48613 t=397
+bgh 	耳	c=1 d=0.67032 t=397
+bi 	孙	c=1 d=1 t=397
+bmk 	出	c=1 d=0.767206 t=397
+bnh 	了	c=2 d=0.786569 t=397
+bnhn 	也	c=1 d=0.640824 t=397
+bwgg 	险	c=1 d=0.946485 t=397
+cde 	参	c=1 d=0.744532 t=397
+cexx 	能	c=3 d=2.08971 t=397
+cf 	对	c=1 d=0.740818 t=397
+ck 	台	c=1 d=0.980199 t=397
+cwy 	难	c=1 d=0.425283 t=397
+d 	大	c=2 d=1.50176 t=397
+def 	有	c=2 d=0.992228 t=397
+defh 	有趣	c=1 d=0.900325 t=397
+dfny 	砖	c=1 d=0.937067 t=397
+dgkn 	感	c=2 d=0.84248 t=397
+dgt 	厂	c=1 d=0.774916 t=397
+dhfd 	在	c=1 d=0.955997 t=397
+dhi 	不	c=1 d=0.752014 t=397
+dian 	耟	c=2 d=1.15367 t=397
+dmjd 	面	c=1 d=0.506617 t=397
+dskf 	奇	c=1 d=0.637628 t=397
+dxyi 	龙	c=2 d=1.33353 t=397
+e 	有	c=1 d=0.995012 t=397
+ec 	肥	c=1 d=0.970446 t=397
+efg 	肚	c=1 d=0.995012 t=397
+eh 	用	c=2 d=0.882424 t=397
+emac 	悬崖勒马	c=1 d=0.960789 t=397
+en 	力	c=1 d=0.918512 t=397
+env 	甩	c=1 d=0.519442 t=397
+epdc 	爱	c=1 d=0.650509 t=397
+eyr 	脑	c=1 d=0.594521 t=397
+eyu 	膀	c=1 d=0.97531 t=397
+fb 	地	c=1 d=0.798516 t=397
+fc 	去	c=1 d=0.527292 t=397
+feip 	动力学	c=1 d=0.960789 t=397
+fhu 	走	c=1 d=0.995012 t=397
+fjfe 	朝	c=1 d=0.509156 t=397
+fqb 	元	c=1 d=0.951229 t=397
+fqp 	远	c=1 d=0.923116 t=397
+ft 	才	c=1 d=0.904837 t=397
+ftj 	者	c=1 d=0.913931 t=397
+fulj 	增	c=1 d=0.529935 t=397
+g 	一	c=2 d=0.925148 t=397
+g 	王	c=1 d=0.806541 t=397
+gd 	天	c=4 d=2.68843 t=397
+gdi 	天	c=1 d=0.927743 t=397
+gei 	豕	c=1 d=0.99005 t=397
+gg 	五	c=1 d=0.491644 t=397
+gghg 	五	c=1 d=0.418952 t=397
+gh 	下	c=1 d=0.56836 t=397
+gjf 	理	c=1 d=0.562705 t=397
+gjg 	亘	c=1 d=0.985112 t=397
+gjr 	更	c=1 d=0.67368 t=397
+gkf 	吾	c=1 d=0.980199 t=397
+gkup 	逗	c=1 d=0.557106 t=397
+gmqn 	现	c=1 d=0.600496 t=397
+go 	来	c=1 d=0.771052 t=397
+gs 	末	c=1 d=0.810584 t=397
+gyk 	琼	c=1 d=0.748264 t=397
+hd 	非	c=1 d=0.440432 t=397
+hdhd 	非	c=2 d=0.835141 t=397
+he 	肯	c=1 d=0.923116 t=397
+hg 	上	c=1 d=0.66034 t=397
+hkf 	占	c=1 d=0.937067 t=397
+i 	不	c=1 d=0.733447 t=397
+iaw 	洪	c=1 d=0.822835 t=397
+ic 	汉	c=1 d=0.909373 t=397
+ifc 	法	c=1 d=0.618783 t=397
+igef 	溥	c=1 d=0.88692 t=397
+ihty 	小	c=2 d=1.66139 t=397
+ijeh 	滥用	c=1 d=0.704688 t=397
+ipb 	学	c=1 d=0.909373 t=397
+ipkh 	常	c=3 d=1.04956 t=397
+ipkm 	演员	c=1 d=0.628135 t=397
+ipm 	觉	c=3 d=1.20949 t=397
+ipnu 	学习	c=2 d=1.99501 t=397
+iptg 	学生	c=1 d=0.499074 t=397
+iptg 	沉重	c=1 d=0.50409 t=397
+iptg 	浶	c=1 d=0.506617 t=397
+iqia 	渔港	c=1 d=0.782705 t=397
+itx 	海	c=1 d=0.514274 t=397
+iwc 	没	c=1 d=0.615697 t=397
+iyck 	流	c=1 d=0.496585 t=397
+j 	是	c=1 d=0.99005 t=397
+je 	明	c=3 d=2.56969 t=397
+jepa 	曌	c=4 d=3.97017 t=397
+jfd 	里	c=1 d=0.965605 t=397
+jfj 	早	c=3 d=1.66637 t=397
+jghu 	是	c=1 d=0.644036 t=397
+jn 	电	c=2 d=1.05523 t=397
+kbsk 	啊	c=3 d=1.28868 t=397
+kdm 	顺	c=1 d=0.70822 t=397
+khgm 	贵	c=1 d=0.71177 t=397
+khk 	中	c=1 d=0.535261 t=397
+kj 	虽	c=1 d=0.918512 t=397
+kkfb 	鄂	c=1 d=0.519442 t=397
+kldn 	嗯	c=3 d=1.77042 t=397
+knx 	呢	c=2 d=0.950528 t=397
+kqw 	吹	c=1 d=0.99005 t=397
+kthf 	咋	c=1 d=0.548812 t=397
+ktr 	哦	c=1 d=0.509156 t=397
+kw 	只	c=1 d=0.843665 t=397
+lfo 	黑	c=1 d=0.932394 t=397
+lgy 	国	c=3 d=1.72655 t=397
+lnu 	思	c=1 d=0.869358 t=397
+lon 	辘	c=1 d=0.474734 t=397
+lw 	界	c=1 d=1 t=397
+ma 	曲	c=1 d=0.467666 t=397
+me 	骨	c=1 d=0.737123 t=397
+mfkd 	周	c=1 d=0.557106 t=397
+mgk 	同	c=1 d=0.56836 t=397
+mmj 	岀	c=3 d=1.51725 t=397
+mmmm 	山	c=1 d=0.759572 t=397
+nav 	民	c=1 d=0.543351 t=397
+nc 	怪	c=2 d=1.99005 t=397
+ncf 	怪	c=1 d=0.640824 t=397
+ndj 	剧	c=1 d=0.794534 t=397
+nge 	情	c=1 d=0.65377 t=397
+nj 	慢	c=1 d=0.873716 t=397
+njlc 	慢	c=3 d=2.21428 t=397
+nngn 	己	c=2 d=1.1983 t=397
+nnw 	快	c=1 d=0.412714 t=397
+no 	屡	c=2 d=1.67809 t=397
+nsh 	忊	c=4 d=2.77497 t=397
+nt 	必	c=1 d=0.650509 t=397
+ntc 	发	c=1 d=0.786628 t=397
+ntcy 	发	c=1 d=0.597501 t=397
+nte 	必	c=1 d=0.927743 t=397
+nu 	习	c=1 d=0.621885 t=397
+nyny 	心	c=1 d=0.486752 t=397
+oamh 	席	c=1 d=0.554327 t=397
+odi 	庆	c=1 d=0.798516 t=397
+ogmj 	糟	c=1 d=0.465334 t=397
+or 	煌	c=1 d=0.484325 t=397
+osso 	糜	c=1 d=0.465334 t=397
+owv 	粉	c=1 d=0.67368 t=397
+oyt 	米	c=2 d=1.66972 t=397
+pb 	字	c=2 d=0.887712 t=397
+pfqc 	寇	c=1 d=0.965605 t=397
+pge 	家	c=1 d=0.960789 t=397
+pgf 	宇	c=1 d=0.814647 t=397
+pl 	军	c=1 d=0.985112 t=397
+pm 	宙	c=1 d=0.818731 t=397
+ptkf 	客	c=1 d=0.66365 t=397
+pud 	实	c=1 d=0.744532 t=397
+pv 	安	c=1 d=0.970446 t=397
+pyjh 	神	c=2 d=1.87883 t=397
+pymq 	视	c=1 d=0.790571 t=397
+pyyy 	礻	c=4 d=3.31156 t=397
+qc 	色	c=1 d=0.657047 t=397
+qeh 	角	c=1 d=0.625002 t=397
+qehj 	角	c=1 d=0.527292 t=397
+qft 	锗	c=1 d=0.839457 t=397
+qjf 	锂	c=7 d=4.83538 t=397
+qkd 	句	c=1 d=0.70822 t=397
+qkhh 	钟	c=1 d=0.729789 t=397
+qq 	多	c=1 d=0.628135 t=397
+qtf 	猪	c=2 d=1.7086 t=397
+qtfj 	獳	c=1 d=0.873716 t=397
+qtft 	犲	c=1 d=0.852144 t=397
+qtg 	狂	c=1 d=0.516851 t=397
+qttt 	犭	c=2 d=1.39852 t=397
+r 	的	c=1 d=1 t=397
+rept 	皧	c=1 d=0.83527 t=397
+rgf 	皇	c=1 d=0.818731 t=397
+rhf 	看	c=1 d=0.782705 t=397
+rhfk 	年	c=1 d=0.516851 t=397
+ript 	撐	c=1 d=0.481909 t=397
+rkks 	操	c=1 d=0.470011 t=397
+rpws 	探	c=1 d=0.946485 t=397
+rqy 	的	c=2 d=1.18791 t=397
+rrr 	白	c=1 d=0.66034 t=397
+rry 	拆	c=1 d=0.496585 t=397
+rs 	打	c=3 d=2.35211 t=397
+s 	木	c=1 d=0.666977 t=397
+sb 	李	c=1 d=0.737123 t=397
+sghg 	西	c=1 d=0.767206 t=397
+sghg 	覀	c=1 d=1 t=397
+sk 	可	c=2 d=1.9605 t=397
+so 	杰	c=1 d=0.960789 t=397
+suan 	西装革履	c=1 d=1 t=397
+svf 	要	c=2 d=1.49026 t=397
+t 	和	c=1 d=0.951229 t=397
+tc 	么	c=1 d=0.554327 t=397
+tda 	甜	c=1 d=0.895834 t=397
+tdi 	夭	c=1 d=0.941765 t=397
+tdkj 	智	c=1 d=0.582748 t=397
+tdu 	矢	c=1 d=0.946485 t=397
+tffy 	待	c=1 d=0.951229 t=397
+tfnv 	毛	c=1 d=0.546074 t=397
+tfny 	毬	c=1 d=1 t=397
+tfq 	先	c=1 d=0.565525 t=397
+tgd 	生	c=1 d=0.932394 t=397
+thd 	自	c=3 d=1.6176 t=397
+thg 	片	c=1 d=0.774916 t=397
+thgc 	版	c=2 d=1.50133 t=397
+tjgf 	得	c=1 d=0.895834 t=397
+tkg 	和	c=2 d=1.47427 t=397
+tlf 	备	c=1 d=0.869358 t=397
+tnb 	乞	c=1 d=0.465334 t=397
+trx 	我	c=6 d=2.26403 t=397
+trxy 	我	c=2 d=1.03697 t=397
+ttfn 	笔	c=3 d=1.26373 t=397
+txu 	每	c=1 d=0.680451 t=397
+tyg 	往	c=1 d=0.97531 t=397
+tygg 	往	c=1 d=0.995012 t=397
+ugk 	半	c=1 d=0.790571 t=397
+ugnf 	羞	c=1 d=0.941765 t=397
+ujn 	意	c=2 d=0.997202 t=397
+ukn 	总	c=1 d=0.559898 t=397
+ukqb 	竞	c=1 d=0.657047 t=397
+um 	端	c=1 d=0.67032 t=397
+uqf 	将	c=2 d=1.33899 t=397
+uqgg 	癣	c=1 d=0.479505 t=397
+us 	亲	c=1 d=0.802519 t=397
+usr 	新	c=1 d=0.980199 t=397
+uthp 	道	c=3 d=2.55688 t=397
+utj 	痢	c=1 d=0.865022 t=397
+uw 	准	c=1 d=0.860708 t=397
+uwyg 	准	c=1 d=0.865022 t=397
+vb 	好	c=3 d=1.22051 t=397
+vbt 	奶	c=1 d=0.522046 t=397
+vk 	如	c=1 d=0.491644 t=397
+vtkg 	群	c=1 d=0.481909 t=397
+w 	人	c=1 d=0.955997 t=397
+w 	几	c=2 d=1.41326 t=397
+wa 	代	c=1 d=0.814647 t=397
+wb 	他	c=1 d=0.637628 t=397
+wgf 	全	c=2 d=0.97531 t=397
+wgg 	伍	c=2 d=0.852144 t=397
+wh 	个	c=2 d=0.923327 t=397
+wjg 	但	c=1 d=0.606531 t=397
+wqi 	你	c=3 d=1.00101 t=397
+wr 	风	c=1 d=0.985112 t=397
+wsk 	何	c=1 d=0.494109 t=397
+wth 	亻	c=1 d=0.882497 t=397
+wu 	位	c=1 d=0.839457 t=397
+wun 	们	c=1 d=0.537944 t=397
+wv 	分	c=2 d=1.06069 t=397
+wwww 	人	c=1 d=0.57695 t=397
+wxf 	华	c=1 d=0.540641 t=397
+wyn 	今	c=1 d=0.529935 t=397
+wyr 	仪	c=1 d=0.895834 t=397
+x 	经	c=2 d=0.955997 t=397
+xa 	红	c=1 d=0.66365 t=397
+xanw 	练	c=2 d=1.30607 t=397
+xfxy 	线	c=1 d=0.574072 t=397
+xkjy 	强	c=1 d=0.904837 t=397
+xn 	纪	c=1 d=0.489192 t=397
+xxly 	比较	c=2 d=1.17409 t=397
+y 	主	c=1 d=0.548812 t=397
+y 	言	c=1 d=0.771052 t=397
+ykiy 	就	c=1 d=0.88692 t=397
+ykpe 	膏	c=1 d=0.474734 t=397
+ykpe 	豪	c=2 d=0.949481 t=397
+yne 	户	c=1 d=0.666977 t=397
+yoo 	谈	c=1 d=0.543351 t=397
+you 	亦	c=1 d=0.985112 t=397
+yout 	变产	c=1 d=0.499074 t=397
+yp 	这	c=1 d=0.551563 t=397
+yriy 	诛	c=1 d=0.932394 t=397
+yt 	放	c=1 d=0.955997 t=397
+ytd 	话	c=1 d=0.546074 t=397
+ytdg 	话	c=1 d=0.71177 t=397
+yuph 	帝	c=1 d=0.822835 t=397
+yxu 	玄	c=1 d=0.802519 t=397
+yygy 	文	c=1 d=0.574072 t=397
+yyy 	言	c=1 d=0.755784 t=397
+yyyy 	言	c=1 d=0.752014 t=397
+encaaaa 	工工	c=0 d=0.0985112 t=397
+encaaaa 	工工工	c=0 d=0.0985112 t=397
+encaaaa 	工工工工	c=0 d=0.0985112 t=397
+encaaaa 	式工	c=0 d=0.0960789 t=397
+encaaaa 	式工工	c=0 d=0.0965605 t=397
+encaaaa 	式工工工	c=0 d=0.0970446 t=397
+encadpu 	其实	c=0 d=0.0744532 t=397
+encaixk 	范强	c=0 d=0.0904837 t=397
+encampg 	黄宇	c=0 d=0.0814647 t=397
+encanan 	世世	c=0 d=0.0995012 t=397
+encanxn 	世纪	c=0 d=0.0489192 t=397
+encapcd 	其实能不	c=0 d=0.0752014 t=397
+encapce 	其实能	c=0 d=0.0748264 t=397
+encappi 	黄宇宙洪	c=0 d=0.0822835 t=397
+encappm 	黄宇宙	c=0 d=0.0818731 t=397
+encaqww 	荻人	c=0 d=0.0955997 t=397
+encawso 	荻人杰	c=0 d=0.0960789 t=397
+encawsp 	荻人杰寇	c=0 d=0.0965605 t=397
+encaxgg 	世纪五	c=0 d=0.0491644 t=397
+encaxgt 	世纪五笔	c=0 d=0.0494109 t=397
+encaxic 	范强汉	c=0 d=0.0909373 t=397
+encaxif 	范强汉者	c=0 d=0.0913931 t=397
+encbaut 	陈道	c=0 d=0.0847894 t=397
+encbduj 	也有意	c=0 d=0.0647265 t=397
+encbfth 	际版	c=0 d=0.0722527 t=397
+encbgow 	耳粉	c=0 d=0.067368 t=397
+encbgsv 	出来要	c=0 d=0.0774916 t=397
+encbmgo 	出来	c=0 d=0.0771052 t=397
+encbnde 	也有	c=0 d=0.0644036 t=397
+encbngg 	了五	c=0 d=0.0418952 t=397
+encbtwa 	际版分区	c=0 d=0.0729789 t=397
+encbtwv 	际版分	c=0 d=0.0726149 t=397
+encbuje 	陈道明	c=0 d=0.0852144 t=397
+enccdce 	能不能	c=0 d=0.0755784 t=397
+enccdcr 	能不能打	c=0 d=0.0759572 t=397
+enccedh 	能不	c=0 d=0.0752014 t=397
+enccers 	能打	c=0 d=0.0759572 t=397
+encckkb 	难啊啊	c=0 d=0.0429557 t=397
+encckkk 	难啊啊啊	c=0 d=0.0431711 t=397
+encckwr 	台风	c=0 d=0.0985112 t=397
+enccrmm 	能打岀	c=0 d=0.0763379 t=397
+enccwkb 	难啊	c=0 d=0.0427415 t=397
+encdcrm 	不能打岀	c=0 d=0.0763379 t=397
+encdcrs 	不能打	c=0 d=0.0759572 t=397
+encddit 	大海	c=0 d=0.0514274 t=397
+encdeaa 	有工	c=0 d=0.1 t=397
+encdeuj 	有意	c=0 d=0.0865022 t=397
+encdfdd 	面朝大	c=0 d=0.0511709 t=397
+encdfdi 	面朝大海	c=0 d=0.0514274 t=397
+encdgip 	感觉	c=0 d=0.0410656 t=397
+encdhce 	不能	c=0 d=0.0755784 t=397
+encdhpg 	在家	c=0 d=0.0960789 t=397
+encdmfj 	面朝	c=0 d=0.0509156 t=397
+encdpjf 	在家里	c=0 d=0.0965605 t=397
+encdpjp 	在家里安	c=0 d=0.0970446 t=397
+encdsnc 	奇怪	c=0 d=0.0640824 t=397
+encduln 	有意思	c=0 d=0.0869358 t=397
+encdult 	有意思我	c=0 d=0.0873716 t=397
+encecey 	肥膀	c=0 d=0.097531 t=397
+enceeup 	肥膀将军	c=0 d=0.0985112 t=397
+enceeuq 	肥膀将	c=0 d=0.0980199 t=397
+encehmg 	用同	c=0 d=0.056836 t=397
+encenqc 	爱情色	c=0 d=0.0657047 t=397
+encenqr 	爱情色白	c=0 d=0.066034 t=397
+encepng 	爱情	c=0 d=0.065377 t=397
+enceupl 	膀将军	c=0 d=0.0985112 t=397
+enceyuq 	膀将	c=0 d=0.0980199 t=397
+encfbyx 	地玄	c=0 d=0.0802519 t=397
+encfcwy 	去今	c=0 d=0.0529935 t=397
+encfdit 	朝大海	c=0 d=0.0514274 t=397
+encfhbb 	走子	c=0 d=0.1 t=397
+encfjdd 	朝大	c=0 d=0.0511709 t=397
+encfkfn 	者虽远必	c=0 d=0.0927743 t=397
+encfkfq 	者虽远	c=0 d=0.0923116 t=397
+encfqnt 	远必	c=0 d=0.0927743 t=397
+encfqyt 	元放	c=0 d=0.0955997 t=397
+encftip 	才学	c=0 d=0.0909373 t=397
+encftkj 	者虽	c=0 d=0.0918512 t=397
+encfwjf 	去今早	c=0 d=0.0532592 t=397
+encfwjw 	去今早你	c=0 d=0.0535261 t=397
+encgdfb 	天地	c=0 d=0.0798516 t=397
+encgdgd 	天天	c=0 d=0.0606531 t=397
+encgdtg 	天生	c=0 d=0.0932394 t=397
+encgdxa 	天练	c=0 d=0.0687289 t=397
+encgemg 	理用同	c=0 d=0.056836 t=397
+encgfyx 	天地玄	c=0 d=0.0802519 t=397
+encgggd 	现天天	c=0 d=0.0606531 t=397
+encggtt 	五笔	c=0 d=0.0494109 t=397
+encggwh 	一个	c=0 d=0.0603506 t=397
+encgjeh 	理用	c=0 d=0.0565525 t=397
+encgjvb 	更好	c=0 d=0.0677057 t=397
+encgkkn 	逗呢	c=0 d=0.0559898 t=397
+encgmgd 	现天	c=0 d=0.0603506 t=397
+encgosv 	来要	c=0 d=0.0774916 t=397
+encgswa 	末代	c=0 d=0.0814647 t=397
+encgthk 	天生占	c=0 d=0.0937067 t=397
+encgtht 	天生占夭	c=0 d=0.0941765 t=397
+encgwrg 	末代皇	c=0 d=0.0818731 t=397
+encgwry 	末代皇帝	c=0 d=0.0822835 t=397
+encgxwt 	天练几	c=0 d=0.0690734 t=397
+encgxww 	天练几个	c=0 d=0.0694197 t=397
+enchdip 	非常	c=0 d=0.0458406 t=397
+enchikm 	非演员	c=0 d=0.0628135 t=397
+enchinj 	非常慢	c=0 d=0.0444858 t=397
+enchivb 	非常好	c=0 d=0.0460704 t=397
+enchktd 	占夭	c=0 d=0.0941765 t=397
+enchttd 	占夭矢	c=0 d=0.0946485 t=397
+encicft 	汉者	c=0 d=0.0913931 t=397
+encidnc 	常奇怪	c=0 d=0.0640824 t=397
+encifeh 	法用	c=0 d=0.0621885 t=397
+encifkf 	汉者虽远	c=0 d=0.0923116 t=397
+encifkj 	汉者虽	c=0 d=0.0918512 t=397
+encihoy 	小米	c=0 d=0.0913931 t=397
+enciieh 	没法用	c=0 d=0.0621885 t=397
+enciitg 	流学生	c=0 d=0.0499074 t=397
+encipds 	常奇	c=0 d=0.0637628 t=397
+encipkt 	浶哦	c=0 d=0.0509156 t=397
+encipnj 	常慢	c=0 d=0.0444858 t=397
+enciptj 	觉得	c=0 d=0.0895834 t=397
+encipvb 	常好	c=0 d=0.0460704 t=397
+encitik 	沉重浶哦	c=0 d=0.0509156 t=397
+encitip 	沉重浶	c=0 d=0.0506617 t=397
+enciwif 	没法	c=0 d=0.0618783 t=397
+encjdaa 	是有工	c=0 d=0.1 t=397
+encjfpv 	里安	c=0 d=0.0970446 t=397
+encjfwq 	早你	c=0 d=0.0535261 t=397
+encjgde 	是有	c=0 d=0.0995012 t=397
+encjgrq 	是的	c=0 d=0.0647265 t=397
+encjney 	电脑	c=0 d=0.0594521 t=397
+encjpwc 	里安全台	c=0 d=0.0980199 t=397
+encjpwg 	里安全	c=0 d=0.097531 t=397
+encjwwr 	早你们的	c=0 d=0.0540641 t=397
+encjwwu 	早你们	c=0 d=0.0537944 t=397
+enckbkb 	啊啊	c=0 d=0.0431711 t=397
+enckdip 	嗯感觉	c=0 d=0.0410656 t=397
+enckdkh 	顺贵	c=0 d=0.071177 t=397
+enckfnt 	虽远必	c=0 d=0.0927743 t=397
+enckhlg 	中国	c=0 d=0.0537944 t=397
+enckjfq 	虽远	c=0 d=0.0923116 t=397
+enckkkb 	啊啊啊	c=0 d=0.0431711 t=397
+enckldg 	嗯感	c=0 d=0.0408608 t=397
+encklwx 	中国华	c=0 d=0.0540641 t=397
+encktyp 	咋这	c=0 d=0.0551563 t=397
+enckytc 	咋这么	c=0 d=0.0554327 t=397
+enckytg 	咋这么逗	c=0 d=0.0557106 t=397
+enclbth 	国际版	c=0 d=0.0722527 t=397
+enclbtw 	国际版分	c=0 d=0.0726149 t=397
+enclgbf 	国际	c=0 d=0.0767206 t=397
+enclgwx 	国华	c=0 d=0.0540641 t=397
+enclntr 	思我	c=0 d=0.0873716 t=397
+encmfuk 	周总	c=0 d=0.0559898 t=397
+encmuge 	周总理用	c=0 d=0.0565525 t=397
+encmugj 	周总理	c=0 d=0.0562705 t=397
+encnatf 	民毛	c=0 d=0.0546074 t=397
+encngqc 	情色	c=0 d=0.0657047 t=397
+encnjnj 	慢慢	c=0 d=0.088692 t=397
+encnjrs 	慢打	c=0 d=0.0891366 t=397
+encnnmm 	己岀	c=0 d=0.0588605 t=397
+encnnrs 	慢慢打	c=0 d=0.0891366 t=397
+encnqqq 	习角多	c=0 d=0.0628135 t=397
+encnqqw 	习角多你	c=0 d=0.0631284 t=397
+encnqrr 	情色白	c=0 d=0.066034 t=397
+encnqrx 	情色白红	c=0 d=0.066365 t=397
+encntyg 	民毛主	c=0 d=0.0548812 t=397
+encnuqe 	习角	c=0 d=0.0625002 t=397
+encoamf 	席周	c=0 d=0.0557106 t=397
+encomug 	席周总理	c=0 d=0.0562705 t=397
+encomuk 	席周总	c=0 d=0.0559898 t=397
+encpbvk 	字如	c=0 d=0.0491644 t=397
+encpcdc 	实能不能	c=0 d=0.0755784 t=397
+encpcdh 	实能不	c=0 d=0.0752014 t=397
+encpfsk 	寇可	c=0 d=0.0970446 t=397
+encpgjf 	家里	c=0 d=0.0965605 t=397
+encpgpm 	宇宙	c=0 d=0.0818731 t=397
+encpjpv 	家里安	c=0 d=0.0970446 t=397
+encpjpw 	家里安全	c=0 d=0.097531 t=397
+encpmia 	宙洪	c=0 d=0.0822835 t=397
+encppia 	宇宙洪	c=0 d=0.0822835 t=397
+encpprp 	神神探	c=0 d=0.0946485 t=397
+encpuce 	实能	c=0 d=0.0748264 t=397
+encpvwg 	安全	c=0 d=0.097531 t=397
+encpvwr 	字如何拆	c=0 d=0.0496585 t=397
+encpvws 	字如何	c=0 d=0.0494109 t=397
+encpwck 	安全台	c=0 d=0.0980199 t=397
+encpwcw 	安全台风	c=0 d=0.0985112 t=397
+encpynd 	视剧	c=0 d=0.0794534 t=397
+encpypy 	神神	c=0 d=0.0941765 t=397
+encpyrp 	神探	c=0 d=0.0946485 t=397
+encqcrr 	色白	c=0 d=0.066034 t=397
+encqefu 	角增	c=0 d=0.0529935 t=397
+encqeqq 	角多	c=0 d=0.0628135 t=397
+encqqwq 	多你	c=0 d=0.0631284 t=397
+encqqwq 	角多你	c=0 d=0.0631284 t=397
+encqqwt 	角多你我	c=0 d=0.0634448 t=397
+encqrxa 	色白红	c=0 d=0.066365 t=397
+encqrxs 	色白红木	c=0 d=0.0666977 t=397
+encqten 	狂甩	c=0 d=0.0519442 t=397
+encqwtr 	多你我	c=0 d=0.0634448 t=397
+encrgyu 	皇帝	c=0 d=0.0822835 t=397
+encrhnt 	看发	c=0 d=0.0786628 t=397
+encrqyo 	的谈	c=0 d=0.0543351 t=397
+encrrxa 	白红	c=0 d=0.066365 t=397
+encrsgg 	打一	c=0 d=0.0704688 t=397
+encrsmm 	打岀	c=0 d=0.0763379 t=397
+encrxsb 	白红木耳	c=0 d=0.067032 t=397
+encrxss 	白红木	c=0 d=0.0666977 t=397
+encryyk 	的谈话咋	c=0 d=0.0548812 t=397
+encryyt 	的谈话	c=0 d=0.0546074 t=397
+encsbow 	木耳粉	c=0 d=0.067368 t=397
+encscri 	权撐	c=0 d=0.0481909 t=397
+encsgyy 	西言	c=0 d=0.0771052 t=397
+encsiia 	相渔港	c=0 d=0.0782705 t=397
+encskty 	可往	c=0 d=0.0995012 t=397
+encsopf 	杰寇	c=0 d=0.0965605 t=397
+encspsk 	杰寇可	c=0 d=0.0970446 t=397
+encssbg 	木耳	c=0 d=0.067032 t=397
+encstqt 	可往犭	c=0 d=0.1 t=397
+encsvvb 	要好	c=0 d=0.0718924 t=397
+encsvwt 	要好几	c=0 d=0.0722527 t=397
+encsvww 	要好几分	c=0 d=0.0726149 t=397
+enctcgk 	么逗	c=0 d=0.0557106 t=397
+enctckb 	笔难啊	c=0 d=0.0427415 t=397
+enctckk 	笔难啊啊	c=0 d=0.0429557 t=397
+enctdce 	智能	c=0 d=0.0585669 t=397
+enctdpg 	待在家	c=0 d=0.0960789 t=397
+enctdpj 	待在家里	c=0 d=0.0965605 t=397
+enctdtd 	夭矢	c=0 d=0.0946485 t=397
+enctduj 	笔有意	c=0 d=0.0865022 t=397
+enctdul 	笔有意思	c=0 d=0.0869358 t=397
+enctfdh 	待在	c=0 d=0.0955997 t=397
+enctfgh 	先下	c=0 d=0.056836 t=397
+enctfwj 	我去今早	c=0 d=0.0532592 t=397
+enctfwy 	我去今	c=0 d=0.0529935 t=397
+enctfyg 	毛主	c=0 d=0.0548812 t=397
+enctghk 	生占	c=0 d=0.0937067 t=397
+enctgkn 	么逗呢	c=0 d=0.0559898 t=397
+enctgtg 	自天生	c=0 d=0.0932394 t=397
+enctgth 	自天生占	c=0 d=0.0937067 t=397
+enctgxa 	每天练	c=0 d=0.0687289 t=397
+enctgxw 	每天练几	c=0 d=0.0690734 t=397
+encthgd 	自天	c=0 d=0.0927743 t=397
+encthtd 	生占夭	c=0 d=0.0941765 t=397
+encthtt 	生占夭矢	c=0 d=0.0946485 t=397
+encthwv 	版分	c=0 d=0.0726149 t=397
+enctlnj 	备慢	c=0 d=0.0873716 t=397
+enctrfc 	我去	c=0 d=0.0527292 t=397
+enctrgg 	我打一	c=0 d=0.0704688 t=397
+enctrkw 	我只	c=0 d=0.0843665 t=397
+enctrrq 	我的	c=0 d=0.1 t=397
+enctrrs 	我打	c=0 d=0.0701173 t=397
+enctrtf 	我先	c=0 d=0.0565525 t=397
+encttcw 	笔难	c=0 d=0.0425283 t=397
+encttde 	笔有	c=0 d=0.0860708 t=397
+encttgh 	我先下	c=0 d=0.056836 t=397
+enctwar 	版分区	c=0 d=0.0729789 t=397
+enctxgd 	每天	c=0 d=0.0683861 t=397
+enctyqt 	往犭	c=0 d=0.1 t=397
+encuaxg 	新世纪五	c=0 d=0.0491644 t=397
+encuaxn 	新世纪	c=0 d=0.0489192 t=397
+encugeh 	总理用	c=0 d=0.0565525 t=397
+encugem 	总理用同	c=0 d=0.056836 t=397
+encugfb 	半天地	c=0 d=0.0798516 t=397
+encugfy 	半天地玄	c=0 d=0.0802519 t=397
+encuggd 	半天	c=0 d=0.0794534 t=397
+encujln 	意思	c=0 d=0.0869358 t=397
+encukgj 	总理	c=0 d=0.0562705 t=397
+encultr 	意思我	c=0 d=0.0873716 t=397
+encuqpl 	将军	c=0 d=0.0985112 t=397
+encusan 	新世	c=0 d=0.0486752 t=397
+encusgg 	亲王	c=0 d=0.0806541 t=397
+encusii 	将相渔港	c=0 d=0.0782705 t=397
+encutje 	道明	c=0 d=0.0878095 t=397
+encvbwt 	好几	c=0 d=0.0722527 t=397
+encvkws 	如何	c=0 d=0.0494109 t=397
+encvtus 	群新	c=0 d=0.0484325 t=397
+encvuan 	群新世	c=0 d=0.0486752 t=397
+encvuax 	群新世纪	c=0 d=0.0489192 t=397
+encvwrr 	如何拆	c=0 d=0.0496585 t=397
+encvwwq 	好几分钟	c=0 d=0.0729789 t=397
+encvwwv 	好几分	c=0 d=0.0726149 t=397
+encwarg 	代皇	c=0 d=0.0818731 t=397
+encwbbn 	他也	c=0 d=0.0640824 t=397
+encwbde 	他也有	c=0 d=0.0644036 t=397
+encwbdu 	他也有意	c=0 d=0.0647265 t=397
+encwcwr 	全台风	c=0 d=0.0985112 t=397
+encwgck 	全台	c=0 d=0.0980199 t=397
+encwgtt 	伍笔	c=0 d=0.0856415 t=397
+encwjwq 	今早你	c=0 d=0.0535261 t=397
+encwjww 	今早你们	c=0 d=0.0537944 t=397
+encwqen 	你力	c=0 d=0.0918512 t=397
+encwqtr 	你我	c=0 d=0.0634448 t=397
+encwqwu 	你们	c=0 d=0.0537944 t=397
+encwryo 	们的谈	c=0 d=0.0543351 t=397
+encwryu 	代皇帝	c=0 d=0.0822835 t=397
+encwryy 	们的谈话	c=0 d=0.0546074 t=397
+encwspf 	人杰寇	c=0 d=0.0965605 t=397
+encwsps 	人杰寇可	c=0 d=0.0970446 t=397
+encwsrr 	何拆	c=0 d=0.0496585 t=397
+encwtde 	伍笔有	c=0 d=0.0860708 t=397
+encwtdu 	伍笔有意	c=0 d=0.0865022 t=397
+encwtwh 	几个	c=0 d=0.0694197 t=397
+encwtwv 	几分	c=0 d=0.0726149 t=397
+encwubi 	位孙	c=0 d=0.1 t=397
+encwurq 	们的	c=0 d=0.0540641 t=397
+encwvar 	分区	c=0 d=0.0729789 t=397
+encwvqk 	分钟	c=0 d=0.0729789 t=397
+encwwaa 	人工	c=0 d=0.0579842 t=397
+encwwqk 	几分钟	c=0 d=0.0729789 t=397
+encwwrq 	你们的	c=0 d=0.0540641 t=397
+encwwry 	你们的谈	c=0 d=0.0543351 t=397
+encwwso 	人杰	c=0 d=0.0960789 t=397
+encwyjf 	今早	c=0 d=0.0532592 t=397
+encxanu 	练习	c=0 d=0.0621885 t=397
+encxass 	红木	c=0 d=0.0666977 t=397
+encxawt 	练几	c=0 d=0.0690734 t=397
+encxgtt 	纪五笔	c=0 d=0.0494109 t=397
+encxifk 	强汉者虽	c=0 d=0.0918512 t=397
+encxift 	强汉者	c=0 d=0.0913931 t=397
+encxkic 	强汉	c=0 d=0.0909373 t=397
+encxngg 	纪五	c=0 d=0.0491644 t=397
+encxnqe 	练习角	c=0 d=0.0625002 t=397
+encxnqq 	练习角多	c=0 d=0.0628135 t=397
+encxsbg 	红木耳	c=0 d=0.067032 t=397
+encxsbo 	红木耳粉	c=0 d=0.067368 t=397
+encxwwh 	练几个	c=0 d=0.0694197 t=397
+encyitj 	就觉得	c=0 d=0.0895834 t=397
+encykip 	就觉	c=0 d=0.0891366 t=397
+encykyk 	豪膏	c=0 d=0.0474734 t=397
+encykyp 	话咋这	c=0 d=0.0551563 t=397
+encykyt 	话咋这么	c=0 d=0.0554327 t=397
+encyosk 	亦可	c=0 d=0.099005 t=397
+encyoyt 	谈话	c=0 d=0.0546074 t=397
+encyptc 	这么	c=0 d=0.0554327 t=397
+encystq 	亦可往犭	c=0 d=0.1 t=397
+encysty 	亦可往	c=0 d=0.0995012 t=397
+encytgk 	这么逗	c=0 d=0.0557106 t=397
+encytgk 	这么逗呢	c=0 d=0.0559898 t=397
+encytkt 	话咋	c=0 d=0.0548812 t=397
+encyykt 	谈话咋	c=0 d=0.0548812 t=397
+encyyky 	谈话咋这	c=0 d=0.0551563 t=397
+encyymm 	言山	c=0 d=0.0759572 t=397
+encyymm 	言言山	c=0 d=0.0759572 t=397
+encyyyy 	言言	c=0 d=0.0755784 t=397

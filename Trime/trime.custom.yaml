@@ -1,0 +1,41 @@
+patch:
+  "style/auto_caps": ascii
+  "style/layout/position": left
+  "style/keyboards": [.default, letter, number, symbols]
+
+  "preset_keyboards/wuwei_pinyin/import_preset": terra_pinyin
+  "preset_keyboards/wubi06/import_preset": terra_pinyin
+
+  "preset_keyboards/wuwei_pinyin":
+    name: "无为"
+    author: "wuwei"
+    ascii_mode: 0
+    ascii_keyboard: letter
+    label_transform: uppercase
+    lock: true
+    width: 10
+    height: 44
+    keys:
+      # line 1
+      - {click: '1', long_click: '!'}
+      - {click: '2', long_click: '@'}
+      - {click: '3', long_click: '#'}
+      - {click: '4', long_click: '$'}
+      - {click: '5', long_click: '%'}
+      - {click: '6', long_click: '^'}
+      - {click: '7', long_click: '&'}
+      - {click: '8', long_click: '*'}
+      - {click: '9', long_click: '('}
+      - {click: '0', long_click: ')'}
+      # line 2
+      - {click: 'q', long_click: '_'}
+      - {click: 'w', long_click: '-'}
+      - {click: 'e', long_click: '+'}
+      - {click: 'r', long_click: '='}
+      - {click: 't', long_click: '|'}
+      - {click: 'y', long_click: '\'}
+      - {click: 'u', long_click: '['}
+      - {click: 'i', long_click: ']'}
+      - {click: 'o', long_click: '{'}
+      - {click: 'p', long_click: '}'}
+      # line 3

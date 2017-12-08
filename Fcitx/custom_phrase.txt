@@ -1,0 +1,332 @@
+# Rime table
+# coding: utf-8
+#@/db_name  custom_phrase.txt
+#@/db_type	tabledb
+#
+# 用於【朙月拼音】系列輸入方案
+# 【小狼毫】0.9.21 以上
+#
+# 請將該文件以UTF-8編碼保存爲
+# Rime用戶文件夾/custom_phrase.txt
+#
+# 碼表各字段以製表符（Tab）分隔
+# 順序爲：文字、編碼、權重（決定重碼的次序、可選）
+#
+# 雖然文本碼表編輯較爲方便，但不適合導入大量條目
+#
+# https://gist.github.com/lotem/5440677
+# 特别注意：'no comment'之后所有含'#'行都当作词组内容了。
+#
+# no comment
+
+中州韻輸入法引擎	rime	3
+2B	erb	100
+2B	erbi	100
+AA制	aazhi	100
+AMD	amd	100
+ATI	ati	100
+ATM機	atmji	100
+Android	android	100
+Arduino	arduino	100
+A他	ata	100
+A他	eita	100
+A她	ata	100
+A她	eita	100
+A死他	asita	100
+A死他	eisita	100
+A死她	asita	100
+A死她	eisita	100
+A片	apian	100
+A盤	apan	100
+A股	agu	100
+B淋巴細胞	blinbaxibao	100
+B盤	bpan	100
+B細胞	bxibao	100
+B股	bgu	100
+B超	bchao	100
+C盤	cpan	100
+C語言	cyuyan	100
+DNA	dna	100
+DVD	dvd	100
+D盤	dpan	100
+E盤	epan	100
+F盤	fpan	100
+Google	google	100
+G盤	gpan	100
+G點	gdian	100
+H盤	hpan	100
+H股	hgu	100
+IP	ip	100
+IPv6	ipvliu	100
+IPv4	ipvsi	100
+IP位址	ipweizhi	100
+IP卡	ipka	100
+IP地址	ipdizhi	100
+IP電話	ipdianhua	100
+I盤	ipan	100
+J盤	jpan	100
+K他	kta	100
+K他	keita	100
+K她	kta	100
+K她	keita	100
+K寶	kbao	100
+K寶	keibao	100
+K歌	kge	100
+K歌	keige	100
+K死他	ksita	100
+K死他	keisita	100
+K死她	ksita	100
+K死她	keisita	100
+K粉	kfen	100
+K粉	keifen	100
+K金	kjin	100
+K金	keijin	100
+Linux	linux	100
+MIPS	mips	100
+MP3	mpsan	100
+MP4	mpsi	100
+Mac	mac	100
+Nvidia	nvidia	100
+POS機	posji	100
+QQ	qq	1000
+QQ會員	qqhuiyuan	100
+QQ羣	qqqun	100
+QQ號	qqhao	100
+QQ號碼	qqhaoma	100
+QQ空間	qqkongjian	100
+QQ郵箱	qqyouxiang	100
+Q幣	qbi	100
+Rime	rime	100
+Rime	zhongzhouyun	100
+SIM卡	simka	100
+T型臺	txingtai	100
+T恤	txu	100
+T恤衫	txushan	100
+T淋巴細胞	tlinbaxibao	100
+T細胞	txibao	100
+UIM卡	uimka	100
+USB	usb	100
+USIM卡	usimka100
+U形管	uxingguan	100
+U盤	upan	100
+U盾	udun	100
+Wi-Fi	waifai	100
+Wi-Fi	wifi	100
+WiFi	waifai	100
+WiFi	wifi	100
+Windows	windows	100
+Xeon	xeon	100
+X光	xguang	100
+X刀	xdao	100
+X射線	xshexian	100
+X染色體	xranseti	100
+Y染色體	yranseti	100
+iMessage	imessage	100
+iOS	ios	100
+iPad	ipad	100
+iPhone	iphone	100
+iPod	ipod	100
+iWatch	iwatch	100
+z變換	zbianhuan	100
+z逆變換	znibianhuan	100
+α射線	aerfashexian	100
+α粒子	aerfalizi	100
+β射線	beitashexian	100
+β粒子	beitalizi	100
+γ刀	gamadao	100
+γ射線	gamashexian	100
+三K黨	sankdang	100
+三K黨	sankeidang	100
+二B	erb	100
+二B	erbi	100
+傻B	shab	100
+傻B	shabi	100
+卡拉OK	kalaok	100
+哆啦A夢	duolaameng	100
+單邊z變換	danbianzbianhuan	100
+智能ABC	zhinengabc	100
+牛B	niub	100
+牛B	niubi	100
+裝B	zhuangb	100
+裝B	zhuangbi	100
+逗B	doub	100
+逗B	doubi	100
+阿Q	aq	100
+阿Q正傳	aqzhengzhuan	100
+<(￣︶￣)↗ 	vv	100
+╳╳○○	vv	100
+(╯—﹏—)╯（ ┷━━━┷ 	vv	100
+(￣∇￣)	vv	100
+(｡>ㅅ<｡)	vv	100
+(╯｀□′)╯	vv	100
+~(^ω^)	vv	100
+(o′ω`o)ノ	vv	100
+(╬▼皿▼）	vv	100
+╮(╯3╰)╭	vv	100
+w(?Д?)w	vv	100
+(≧口≦)	vv	100
+"((>ω<))	vv	100
+╮(￣▽￣")╭	vv	100
+╮(╯_╰)╭	vv	100
+~(*￣▽￣*)ブ	vv	100
+┗|｀′|┛	vv	100
+ヾ(≧≦)〃	vv	100
+＼(◎◎)／	vv	100
+(>▽<)	vv	100
+ヽ(???)メ	vv	100
+(?-ω-)	vv	100
+ヾ(￣▽￣)e~	vv	100
+(^0^)/	vv	100
+(^人^)	vv	100
+(ˉ▽ˉ；)	vv	100
+(っ*′Д`)っ	vv	100
+(〃'▽'〃)	vv	100
+(`０‘)ノ	vv	100
+§(*￣▽￣*)§	vv	100
+(*￣︿￣)	vv	100
+(゜▽゜)☆	vv	100
+╮(︶︿︶）╭	vv	100
+(￣△￣；)	vv	100
+(ˉ▽ˉ；)	vv	100
+(-_-メ)	vv	100
+(′▽`〃)	vv	100
+(￣▽￣")	vv	100
+(￣_￣|||)	vv	100
+(°△°|||)	vv	100
+(^^)	vv	100
+（*＾-＾*）	vv	100
+(*^▽^*)	vv	100
+(′▽`〃)	vv	100
+≡￣﹏￣≡	vv	100
+(￣?￣;)	vv	100
+(*￣▽￣*)	vv	100
+（￣。。￣）	vv	100
+(￣ヘ￣＃)	vv	100
+(；′⌒`)	vv	100
+(；一_一)	vv	100
+（┭┮﹏┭┮）	vv	100
+✪ω✪	vv	100
+( ◉ืൠ◉ื)	vv	100
+ʅ（◞‸◟）ʃ	vv	100
+(｡◝‿◜｡)	vv	100
+(´◞⊖◟`)	vv	100
+-\(˙<>˙)/--	vv	100
+︶ε╰✿	vv	100
+o‿≖✧	vv	100
+( ◔ ڼ ◔ )	vv	100
+í﹏ì	vv	100
+(。≖ˇェˇ≖｡)	vv	100
+┗(´D`* (´D`*(´D`*)┛	vv	100
+( ´◔ ‸◔`)	vv	100
+ㄟ(◑‿◐ )ㄏ	vv	100
+⊙.⊙	vv	100
+”(*´ｪ`*)”	vv	100
+<(▰˘◡˘▰)>	vv	100
+(●'◡'●)ﾉ♥	vv	100
+(・ω< )★	vv	100
+(☍﹏⁰)	vv	100
+(｡◕ˇ∀ˇ◕）	vv	100
+(♥◠‿◠)ﾉ	vv	100
+٩(●̮̮̃●̃)۶ ٩(•̮̮̃•̃)۶ ٩(-̮̮̃-̃)۶ ٩(●̮̮̃•̃)۶ ٩(-̮̮̃•̃)۶ ٩(×̯×)۶ ٩͡[๏̯͡๏]۶	vv	100
+~Ⴚ(●ტ●)Ⴢ~	vv	100
+✧ (≖ ‿ ≖)✧	vv	100
+✪ω✪	vv	100
+ℰ⋆‿⋆ℰ	vv	100
+இwஇ	vv	100
+థ౪థ	vv	100
+(,,Ծ‸Ծ,,)	vv	100
+(๑◕ܫ￩๑)b	vv	100
+ლ(╹◡╹ლ )	vv	100
+／人◕ ‿‿ ◕人＼	vv	100
+ಠ_ಠ	vv	100
+(๑°3°๑)	vv	100
+(˘❥˘)	vv	100
+(๑꒪◞౪◟꒪๑)	vv	100
+(๑￫ܫ￩)	vv	100
+｡◕‿◕｡	vv	100
+(╬▔＾▔)凸	vv	100
+(*ﾟｪﾟ*)	vv	100
+(# 罒╭─╮罒 #)	vv	100
+(๑꒪◞౪◟꒪๑)	vv	100
+ლↀѡↀლ	vv	100
+v( ^-^(ё_ёゝ	vv	100
+✷(ꇐ‿ꇐ)✷	vv	100
+(♩￢3￢)	vv	100
+Σ(OAO”	vv	100
+＼(◎o◎)／ 	vv	100
+ヾ(≧O≦)〃	vv	100
+ヾ(￣▽￣)Bye~Bye~ 	vv	100
+(o^0^o)/~~~~~~~バイバ～イ！！	vv	100
+o(￣┰￣*)ゞ 	vv	100
+(＠￣ー￣＠) 	vv	100
+(；′⌒`) 	vv	100
+^-^	vv	100
+（╯‵□′）╯︵┴─┴ 	vv	100
+ˋ( ° ▽、° )	vv	100
+( >﹏<。)～	vv	100
+(￣o￣) . z Z 	vv	100
+(o-ωｑ)).oO	vv	100
+m( =∩王∩= )m	vv	100
+（ ￣ー￣）	vv	100
+o(=·ェ·=)m	vv	100
+(￣_,￣ )	vv	100
+￣△￣ 	vv	100
+···－～＝～≡～≡ ((+o+))) 	vv	100
+∑(′□｀；)	vv	100
+(σ｀д′)σ	vv	100
+--\(˙<>˙)/--	vv	100
+ε(┬﹏┬)3 	vv	100
+Oh~ no！！！！	vv	100
+(〓￣(∵エ∵)￣〓)  	vv	100
+Oh yeah！\(^&^)/ 	vv	100
+(゜゜)～	vv	100
+OK 	vv	100
+φ(-ω-*) 	vv	100
+ヾ(＠⌒ー⌒＠)ノ 	vv	100
+┴┴︵╰（‵□′）╯︵┴┴	vv	100
+╥﹏╥... 	vv	100
+σ（⌒ー⌒）	vv	100
+(☆-ｖ-)	vv	100
+
+(＠￣ー￣＠)	vv	100
+(￣▽￣")	vv	100
+(✿✪‿✪｡)ﾉ	vv	100
+┳＿┳	vv	100
+\("▔□▔)/	vv	100
+o(≥口≤)o	vv	100
+(￣ε￣*)	vv	100
+o(≥v≤)o	vv	100
+('︶︿︶)o	vv	100
+(●'◡'●)ﾉ	vv	100
+(◕ω＜)	vv	100
+o((>ω<))o	vv	100
+（⊙_⊙?）	vv	100
+ヽ(≥Д≤)ノ	vv	100
+(●＾ω＾●）	vv	100
+(p≥w≤q)	vv	100
+(ㄒoㄒ)/	vv	100
+┳＿┳	vv	100
+n(*≥▽≤*)n	vv	100
+(*^__^*)	vv	100
+(┳＿┳)	vv	100
+o(*////▽////*)q	vv	100
+π_π	vv	100
+~\(≥▽≤)/~	vv	100
+＞▽＜	vv	100
+(●´艸‘)ヾ	vv	100
+（*＾～＾*）	vv	100
+(*^▽^*)ゞ	vv	100
+（*/∇＼*）	vv	100
+(*´ー‘*)	vv	100
+￣ω￣	vv	100
+(〃ω〃)	vv	100
+<(▰˘◡˘▰)>	vv	100
+(｡◝‿◜｡)	vv	100
+(♥◠‿◠)ﾉ	vv	100
+✪ω✪	vv	100
+(,,Ծ‸Ծ,,)	vv	100
+ಠ_ಠ	vv	100
+(⊙x⊙;)	vv	100
+(。-ω-)	vv	100
+Orz	vv	100
+
