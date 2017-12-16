@@ -85,17 +85,16 @@ preset_keys:
   Keyboard_edit: { label: '編輯', send: Eisu_toggle, select: edit }
 
   VOICE_ASSIST/label: '🎙'
-  DeleteCandidate/label: '刂讠'
-  share_text/label: '享'
-  Zdic/label: '搜'
+  DeleteCandidate/label: '刂'
+  share_text/label: '亠'
+  Zdic/label: '扌'
   Shift_L/label: '⇧'
   Return/label: '回車'
   Escape/label: '⎋'
   Left/label: '左'
-  Up/label: '丄'
   Down/label: '丅'
+  Up/label: '丄'
   Right/label: '右'
-  Clear/label: '全清'
 
   date_time: { label: '日時', send: function, command: date, option: "yyyy-MM-dd HH:mm:ss" }
   DuckDuckGo: { label: '鴨鴨', send: function, command: run, option: "https://duckduckgo.com/html/?q=%s" }
@@ -103,38 +102,16 @@ preset_keys:
 preset_keyboards:
   __include: trime:/preset_keyboards
 
-  __patch:
-    ## Key numbers start at 0.
-    "number/keys/@14": { click: ',' }
-    "number/keys/@16": { click: '=' }
-    "number/keys/@19": { click: BackSpace }
-    "number/keys/@20": { click: Keyboard_default, long_click: Menu, key_text_offset_y: 4 }
-    "number/keys/@21": { click: Keyboard_symbols, long_click: Keyboard_edit, key_text_offset_y: 4 }
-    "number/keys/@23": { click: Delete }
-
-    ## Null value by '' or 'VoidSymbol'
-    "symbols/keys/@39/long_click": 'VoidSymbol'
-    "symbols/keys/@40": { click: Keyboard_default, long_click: Menu, key_text_offset_y: 4, width: 15 }
-    "symbols/keys/@41": { click: Keyboard_edit, long_click: Keyboard_number, key_text_offset_y: 4, width: 13 }
-    "symbols/keys/@42": { click: space, long_click: VOICE_ASSIST, key_text_offset_y: 4, width: 34 }
-    "symbols/keys/@44": { click: Delete, long_click: Hide, key_text_offset_y: 4, width: 13 }
-    "symbols/keys/@45": { click: Return, long_click: Color_switch, key_text_offset_y: 4, width: 15 }
-
-  ## `import_preset' defines a reference instead of making a copy
   wuwei_pinyin:
-    import_preset: wuwei
-
-  wubi06:
-    import_preset: easy_en
-
-  easy_en:
+    ## `import_preset' way is deprecated.
+    # import_preset: wuwei
     __include: /preset_keyboards/wuwei # leading slash is optional
 
-    __patch:
-      "keys/@21/composing": ''
-      "keys/@30/has_menu": ''
-      "keys/@31/has_menu": ''
-      "keys/@34/has_menu": ''
+  wubi06:
+    __include: /preset_keyboards/wuwei
+
+  easy_en:
+    __include: /preset_keyboards/wuwei
 
   wuwei:
     name: "wuwei"
@@ -146,46 +123,47 @@ preset_keyboards:
     height: 55
     keys:
       ## line 1
-      - { click: 'q', long_click: '!', swipe_up: '!', hint: '1', swipe_down: '1' }
-      - { click: 'w', long_click: '@', swipe_up: '@', hint: '2', swipe_down: '2' }
-      - { click: 'e', long_click: '#', swipe_up: '#', hint: '3', swipe_down: '3' }
-      - { click: 'r', long_click: '$', swipe_up: '$', hint: '4', swipe_down: '4' }
-      - { click: 't', long_click: '%', swipe_up: '%', hint: '5', swipe_down: '5' }
-      - { click: 'y', long_click: '^', swipe_up: '^', hint: '6', swipe_down: '6' }
-      - { click: 'u', long_click: '&', swipe_up: '&', hint: '7', swipe_down: '7' }
-      - { click: 'i', long_click: '*', swipe_up: '*', hint: '8', swipe_down: '8' }
-      - { click: 'o', long_click: '(){Left}', swipe_up: '(){Left}', hint: '9', swipe_down: '9' }
-      - { click: 'p', long_click: '{}{Left}', swipe_up: '{}{Left}', hint: '0', swipe_down: '0' }
+      - { click: 'q', long_click: '1', hint: '!', swipe_down: '!' }
+      - { click: 'w', long_click: '2', hint: '@', swipe_down: '@' }
+      - { click: 'e', long_click: '3', hint: '#', swipe_down: '#' }
+      - { click: 'r', long_click: '4', hint: '$', swipe_down: '$' }
+      - { click: 't', long_click: '5', hint: '%', swipe_down: '%' }
+      - { click: 'y', long_click: '6', hint: '^', swipe_down: '^' }
+      - { click: 'u', long_click: '7', hint: '&', swipe_down: '&' }
+      - { click: 'i', long_click: '8', hint: '*', swipe_down: '*' }
+      - { click: 'o', long_click: '9', hint: '(', swipe_down: '(' }
+      - { click: 'p', long_click: '0', hint: ')', swipe_down: ')' }
       ## line 2
-      - { click: Zdic, has_menu: DeleteCandidate, key_text_size: 10, width: 5 }
-      - { click: 'a', long_click: select_all, swipe_up: select_all, hint: '日期', swipe_down: Date }
-      - { click: 's', long_click: Page_Up, swipe_up: Page_Up, hint: '下頁', swipe_down: Page_Down }
-      - { click: 'd', long_click: Home, swipe_up: Home, hint: '行尾', swipe_down: End }
-      - { click: 'f', long_click: Left, swipe_up: Left, hint: '右', swipe_down: Right }
-      - { click: 'g', long_click: Up, swipe_up: Up, hint: '丅', swipe_down: Down }
-      - { click: 'h', long_click: '-', swipe_up: '-', hint: '_', swipe_down: '_' }
-      - { click: 'j', long_click: '~', swipe_up: '~', hint: '+', swipe_down: '+' }
-      - { click: 'k', long_click: '<>{Left}', swipe_up: '<>{Left}', hint: '=', swipe_down: '=' }
-      - { click: 'l', long_click: '[]{Left}', swipe_up: '[]{Left}', hint: '|', swipe_down: '|' }
-      - { click: share_text, has_menu: Escape, key_text_size: 10, width: 5 }
+      - {click: Zdic, has_menu: DeleteCandidate, key_text_size: 15, width: 5}
+      - { click: 'a', long_click: Page_Up, hint: '行首', swipe_up: Home }
+      - { click: 's', long_click: Page_Down, hint: '行尾', swipe_down: End }
+      - { click: 'd', long_click: Left, hint: '丄', swipe_up: Up }
+      - { click: 'f', long_click: Right, hint: '丅', swipe_down: Down }
+      - { click: 'g', long_click: '`', hint: '_', swipe_down: '_' }
+      - { click: 'h', long_click: '~', hint: '<', swipe_down: '<' }
+      - { click: 'j', long_click: '=', hint: '>', swipe_down: '>' }
+      - { click: 'k', long_click: '[', hint: '{', swipe_down: '{' }
+      - { click: 'l', long_click: ']', hint: '}', swipe_down: '}' }
+      - {click: share_text, has_menu: Escape, key_text_size: 15, width: 5}
       ## line 3
       - { click: Shift_L, composing: "'", key_text_size: 44, key_text_offset_y: -3, width: 15 }
-      - { click: 'z', long_click: '`', swipe_up: '`', hint: '時間', swipe_down: Time }
-      - { click: 'x', long_click: cut, swipe_up: cut, hint: '全挪', swipe_down: cut_all }
-      - { click: 'c', long_click: copy, swipe_up: copy, hint: '全謄', swipe_down: copy_all }
-      - { click: 'v', long_click: paste, swipe_up: paste, hint: '/', swipe_down: '/' }
-      - { click: 'b', long_click: Clear, swipe_up: Clear, hint: '\', swipe_down: '\' }
-      - { click: 'n', long_click: "'", swipe_up: "'", hint: '"', swipe_down: '"' }
-      - { click: 'm', long_click: ';', swipe_up: ';', hint: ':', swipe_down: ':' }
+      - { click: 'z', long_click: select_all, hint: '剪下', swipe_down: cut }
+      - { click: 'x', long_click: copy, hint: '全謄', swipe_down: cut_all }
+      - { click: 'c', long_click: paste, hint: '|', swipe_down: '|' }
+      - { click: 'v', long_click: '/', hint: '\', swipe_down: '\' }
+      - { click: 'b', long_click: '-', hint: '+', swipe_down: '+' }
+      - { click: 'n', long_click: "'", hint: '"', swipe_down: '"' }
+      - { click: 'm', long_click: ';', hint: ':', swipe_down: ':' }
       - { click: BackSpace, width: 15 }
       ## line 4
-      - { click: Keyboard_symbols, has_menu: '-', long_click: Menu, key_text_offset_y: 4, width: 13 }
-      - { click: Keyboard_number, has_menu: '/', long_click: Keyboard_edit, key_text_offset_y: 4, width: 12 }
-      - { click: ',', long_click: undo, width: 12 }
-      - { click: space, long_click: VOICE_ASSIST, key_text_offset_y: 4, width: 26, swipe_left: Left, swipe_right: Right, swipe_up: Up, swipe_down: Down }
-      - { click: '?', has_menu: '\', long_click: redo, key_text_offset_y: 4, width: 12 }
-      - { click: '.', long_click: Delete, width: 12 }
-      - { click: Return, long_click: CommitComment, key_text_offset_y: 5, width: 13 }
+      - { click: Keyboard_number, long_click: Menu, has_menu: '-', key_text_offset_y: 4, width: 15 }
+      - { click: Keyboard_symbols, long_click: Keyboard_edit, has_menu: '/', key_text_offset_y: 4 }
+      - { click: ',', long_click: undo }
+      - { click: space, long_click: VOICE_ASSIST, key_text_offset_y: 4, width: 30, swipe_left: Left, swipe_right: Right, swipe_up: Up, swipe_down: Down }
+      - { click: '?', long_click: redo, has_menu: '\', key_text_offset_y: 4 }
+      - { click: '.', long_click: Delete }
+      # - { click: Return, long_click: CommitComment, key_text_size: 30, key_text_offset_y: 4, width: 15 }
+      - { click: Return, long_click: CommitComment, key_text_offset_y: 5, width: 15 }
 
   edit:
     name: "wuwei"
