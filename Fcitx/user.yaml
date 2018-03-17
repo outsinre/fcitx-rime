@@ -4,13 +4,13 @@ var:
     extended_charset: false
     full_shape: false
     simplification: true
-  previously_selected_schema: wuwei_pinyin
+  previously_selected_schema: wubi06
   schema_access_time:
-    easy_en: 1503501335
+    easy_en: 1519734659
     luna_pinyin: 1504683686
     luna_pinyin_simp: 1504698208
-    terra_pinyin: 1504698221
+    terra_pinyin: 1519730277
     test: 1504591971
-    wubi06: 1509682088
-    wuwei_pinyin: 1509721945
+    wubi06: 1521292683
+    wuwei_pinyin: 1521291945
     ww_py: 1504591862

@@ -14,6 +14,6 @@ use_preset_vocabulary: true
 import_tables:
   - terra_pinyin
   - zhyydcd_tra
-  - ext
+  - sg96w
 ...
 

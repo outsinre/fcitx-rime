@@ -1,4 +1,4 @@
-## Rime schema
+## Rime 自定义地球拼音
 ## encoding: utf-8
 ##
 ## https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
@@ -88,6 +88,10 @@ key_binder:
     - { when: always, accept: Control+Shift+dollar, toggle: zh_simp }
     - { when: has_menu, accept: minus, send: minus }  # 第一声，默认fcitx会占用来翻页
 
+editor:
+  bindings:
+    Control_R+0: commit_comment
+
 speller:
   alphabet: 'zyxwvutsrqponmlkjihgfedcba-;/<,>\'
   initials: zyxwvutsrqponmlkjihgfedcba
@@ -116,18 +120,6 @@ speller:
 
 punctuator:
   import_preset: symbols
-
-## 反查也出现在候选里；如果觉得干扰太大，可以降低initial_quality或者干脆移除
-## english translator 单独定义不需要额外指定
-##
-# abc_segmentor/extra_tags:
-#   - emoji_lookup
-#   - wubi06_lookup
-## 用下面的写法，否则单字声调提示没有了（估计是bug）
-abc_segmentor:
-  extra_tags:
-    - emoji_lookup
-    - wubi06_lookup
 
 translator:
   dictionary: wuwei_pinyin
@@ -204,6 +196,18 @@ custom_phrase:
   enable_completion: false
   enable_sentence: false
   initial_quality: 1
+
+## 反查也出现在候选里；如果觉得干扰太大，可以降低initial_quality或者干脆移除
+## english translator 单独定义不需要额外指定
+##
+# abc_segmentor/extra_tags:
+#   - emoji_lookup
+#   - wubi06_lookup
+## 用下面的写法，否则单字声调提示没有了（估计是bug）
+abc_segmentor:
+  extra_tags:
+    - emoji_lookup
+    - wubi06_lookup
 
 ## table_translator@english实现中英混合输入
 ## 不需要加入到abc_segmentor/extra_tags里面

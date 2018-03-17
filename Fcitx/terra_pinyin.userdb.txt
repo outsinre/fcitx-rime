@@ -2,12 +2,13 @@
 #@/db_name	terra_pinyin.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	7
+#@/tick	9
 #@/user_id	Fcitx
-ci2 ku4 	詞庫	c=1 d=0.99005 t=7
-he2 	和	c=1 d=0.97531 t=7
-he2 cheng2 	合成	c=1 d=0.995012 t=7
-sou1 gou3 	搜狗	c=1 d=0.980199 t=7
-su4 du4 	速度	c=1 d=1 t=7
-wan4 	萬	c=1 d=0.985112 t=7
-xue2 	學	c=1 d=1 t=7
+ci2 ku4 	詞庫	c=1 d=0.99005 t=9
+guo2 	國	c=2 d=1.99501 t=9
+he2 	和	c=1 d=0.97531 t=9
+he2 cheng2 	合成	c=1 d=0.995012 t=9
+sou1 gou3 	搜狗	c=1 d=0.980199 t=9
+su4 du4 	速度	c=1 d=1 t=9
+wan4 	萬	c=1 d=0.985112 t=9
+xue2 	學	c=1 d=1 t=9

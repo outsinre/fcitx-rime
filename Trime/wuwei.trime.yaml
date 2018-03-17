@@ -8,13 +8,13 @@ author: "無爲"
 ## `__include' copies the relevant contents into the new posistion.
 ## It supports copy from another `.yaml' file or from current file.
 ## Trailing `.yaml' is optional.
+##
+## To overwrite `__include' values, use `__patch'.
+## To define new items, `__patch' is optional.
 
 ## Copy `trime.yaml' contents all at once. 
 # __include: trime.yaml:/
-
-## Or
-## Copy `trime.yaml' contents section by section.
-## There are 6 sections in all. This method gives you fine control.
+## Or copy `trime.yaml' contents section by section.
 
 fallback_colors:
   __include: trime.yaml:/fallback_colors
@@ -25,8 +25,12 @@ android_keys:
 style:
   __include: trime:/style
 
-  auto_caps: ascii
-  keyboards: [ .default, letter, number, symbols, edit ]
+  __patch:
+    auto_caps: ascii
+    speech_opencc_config: 'none'
+    latin_locale: en_US
+    locale: zh_CN # zh_TW,zh_CN,zh_HK,""
+    keyboards: [ .default, letter, number, symbols, edit ]
 
 preset_color_schemes:
   # __include: trime:/preset_color_schemes
@@ -77,50 +81,65 @@ preset_color_schemes:
     hilited_text_color: 0x000000
     hilited_back_color: 0xffff7f
     hilited_candidate_text_color: 0xffffff
-    hilited_candidate_back_color: 0x000000
+    hilited_candidate_back_color: 0x88ff0000
+    hilited_comment_text_color: 0xffffff
 
 preset_keys:
   __include: trime:/preset_keys
 
   Keyboard_edit: { label: '編輯', send: Eisu_toggle, select: edit }
-
-  VOICE_ASSIST/label: '🎙'
-  DeleteCandidate/label: '刂讠'
-  share_text/label: '享'
-  Zdic/label: '搜'
-  Shift_L/label: '⇧'
-  Return/label: '回車'
-  Escape/label: '⎋'
-  Left/label: '左'
-  Up/label: '丄'
-  Down/label: '丅'
-  Right/label: '右'
-  Clear/label: '全清'
-
   date_time: { label: '日時', send: function, command: date, option: "yyyy-MM-dd HH:mm:ss" }
   DuckDuckGo: { label: '鴨鴨', send: function, command: run, option: "https://duckduckgo.com/html/?q=%s" }
+
+  __patch:
+    VOICE_ASSIST/label: '🎙'
+    DeleteCandidate/label: '刂讠'
+    share_text/label: '享'
+    Zdic/label: '搜'
+    Shift_L/label: '⇧'
+    Return/label: '回車'
+    Escape/label: '⎋'
+    Left/label: '左'
+    Up/label: '丄'
+    Down/label: '丅'
+    Right/label: '右'
+    Clear/label: '全清'
 
 preset_keyboards:
   __include: trime:/preset_keyboards
 
   __patch:
+    "number/height": 40
     ## Key numbers start at 0.
     "number/keys/@14": { click: ',' }
     "number/keys/@16": { click: '=' }
     "number/keys/@19": { click: BackSpace }
-    "number/keys/@20": { click: Keyboard_default, long_click: Menu, key_text_offset_y: 4 }
+    "number/keys/@20": { click: Keyboard_default }
     "number/keys/@21": { click: Keyboard_symbols, long_click: Keyboard_edit, key_text_offset_y: 4 }
-    "number/keys/@23": { click: Delete }
+    "number/keys/@23": { click: date_time, long_click: Delete, key_text_offset_y: 4 }
+    "number/keys/@24": { click: Return }
 
     ## Null value by '' or 'VoidSymbol'
+    "symbols/height": 40
+    "symbols/keys/@20/key_text_offset_y": 4
+    "symbols/keys/@21/key_text_offset_y": 4
+    "symbols/keys/@22/key_text_offset_y": 4
+    "symbols/keys/@23/key_text_offset_y": 4
+    "symbols/keys/@24/key_text_offset_y": 4
+    "symbols/keys/@25/key_text_offset_y": 4
+    "symbols/keys/@26/key_text_offset_y": 4
+    "symbols/keys/@27/key_text_offset_y": 4
+    "symbols/keys/@28/key_text_offset_y": 4
+    "symbols/keys/@33/key_text_offset_y": 3
+    "symbols/keys/@34/key_text_offset_y": 3
     "symbols/keys/@39/long_click": 'VoidSymbol'
     "symbols/keys/@40": { click: Keyboard_default, long_click: Menu, key_text_offset_y: 4, width: 15 }
     "symbols/keys/@41": { click: Keyboard_edit, long_click: Keyboard_number, key_text_offset_y: 4, width: 13 }
     "symbols/keys/@42": { click: space, long_click: VOICE_ASSIST, key_text_offset_y: 4, width: 34 }
-    "symbols/keys/@44": { click: Delete, long_click: Hide, key_text_offset_y: 4, width: 13 }
+    "symbols/keys/@44": { click: Hide, long_click: Delete, key_text_offset_y: 4, width: 13 }
     "symbols/keys/@45": { click: Return, long_click: Color_switch, key_text_offset_y: 4, width: 15 }
 
-  ## `import_preset' defines a reference instead of making a copy
+  ## `import_preset' defines a reference instead of copy
   wuwei_pinyin:
     import_preset: wuwei
 
@@ -143,7 +162,7 @@ preset_keyboards:
     label_transform: uppercase # uppercase | none
     lock: false
     width: 10
-    height: 55
+    height: 50
     keys:
       ## line 1
       - { click: 'q', long_click: '!', swipe_up: '!', hint: '1', swipe_down: '1' }
@@ -176,7 +195,7 @@ preset_keyboards:
       - { click: 'v', long_click: paste, swipe_up: paste, hint: '/', swipe_down: '/' }
       - { click: 'b', long_click: Clear, swipe_up: Clear, hint: '\', swipe_down: '\' }
       - { click: 'n', long_click: "'", swipe_up: "'", hint: '"', swipe_down: '"' }
-      - { click: 'm', long_click: ';', swipe_up: ';', hint: ':', swipe_down: ':' }
+      - { click: 'm', long_click: ':', swipe_up: ':', hint: ';', swipe_down: ';' }
       - { click: BackSpace, width: 15 }
       ## line 4
       - { click: Keyboard_symbols, has_menu: '-', long_click: Menu, key_text_offset_y: 4, width: 13 }
@@ -192,7 +211,7 @@ preset_keyboards:
     author: "無爲"
     ascii_mode: 0
     width: 20
-    height: 55
+    height: 50
     keys:
       ## line 1
       - { click: select_all }
@@ -201,7 +220,7 @@ preset_keyboards:
       - { click: Page_Down }
       - { click: undo }
       ## line 2
-      - { click: copy }
+      - { click: copy, long_click: copy_all, key_text_offset_y: 2 }
       - { click: Left }
       - { click: Shift_L, label: '選擇' }
       - { click: Right }
@@ -213,8 +232,8 @@ preset_keyboards:
       - { click: End }
       - { click: BackSpace }
       ## line 4
+      - { click: Keyboard_default }
       - { click: cut, long_click: cut_all, key_text_offset_y: 2 }
-      - { click: Keyboard_default, long_click: Color_switch, key_text_offset_y: 2 }
       - { click: space }
-      - { click: Delete }
+      - { click: Delete, long_click: Clear, key_text_offset_y: 2 }
       - { click: Return }

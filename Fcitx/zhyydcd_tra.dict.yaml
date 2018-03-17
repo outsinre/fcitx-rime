@@ -7,7 +7,7 @@
 name: zhyydcd_tra
 version: "2017.03.02"
 sort: by_weight
-use_preset_vocabulary: true
+use_preset_vocabulary: false
 imort_tables: {}
 ...
 
