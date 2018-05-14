@@ -2,13 +2,14 @@
 #@/db_name	emoji.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	12
+#@/tick	13
 #@/user_id	Fcitx
-chicken,ji;sheng'xiao`zodiac 	🐔	c=1 d=0.995012 t=12
-evil;tou`head 	👿	c=1 d=0.995012 t=12
-laugh,happy;biao'qing 	😂	c=1 d=0.99005 t=12
-lettera,roundsqr;zi'mu`bloodtype abckward,ui;jianyou 	🅰⏩	c=1 d=1 t=12
-money;qian`money italy,country;guo 	💰🇮🇹	c=1 d=0.985112 t=12
-one,clock;zhong spain,country;guo ok;shou`hand money;qian`money 	🕐🇪🇸👌💰	c=1 d=0.995012 t=12
-tiger,hu;sheng'xiao`zodiac 	🐯	c=3 d=2.97516 t=12
-video,game;you'xi 	🎮	c=3 d=2.98506 t=12
+chicken,ji;sheng'xiao`zodiac 	🐔	c=1 d=0.995012 t=13
+evil;tou`head 	👿	c=1 d=0.995012 t=13
+laugh,happy;biao'qing 	😂	c=1 d=0.99005 t=13
+lettera,roundsqr;zi'mu`bloodtype abckward,ui;jianyou 	🅰⏩	c=1 d=1 t=13
+money;qian`money italy,country;guo 	💰🇮🇹	c=1 d=0.985112 t=13
+one,clock;zhong spain,country;guo ok;shou`hand money;qian`money 	🕐🇪🇸👌💰	c=1 d=0.995012 t=13
+tiger,hu;sheng'xiao`zodiac 	🐯	c=3 d=2.97516 t=13
+video,game;you'xi 	🎮	c=3 d=2.98506 t=13
+you,hanzi;zi`kanji 	🈶	c=1 d=1 t=13

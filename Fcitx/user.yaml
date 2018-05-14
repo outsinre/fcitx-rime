@@ -3,7 +3,7 @@ var:
     ascii_punct: false
     extended_charset: false
     full_shape: false
-    simplification: true
+    simplification: false
   previously_selected_schema: wubi06
   schema_access_time:
     easy_en: 1519734659

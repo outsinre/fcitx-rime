@@ -2,13 +2,112 @@
 #@/db_name	terra_pinyin.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	9
+#@/tick	112
 #@/user_id	Fcitx
-ci2 ku4 	詞庫	c=1 d=0.99005 t=9
-guo2 	國	c=2 d=1.99501 t=9
-he2 	和	c=1 d=0.97531 t=9
-he2 cheng2 	合成	c=1 d=0.995012 t=9
-sou1 gou3 	搜狗	c=1 d=0.980199 t=9
-su4 du4 	速度	c=1 d=1 t=9
-wan4 	萬	c=1 d=0.985112 t=9
-xue2 	學	c=1 d=1 t=9
+ba1 li2 	巴黎	c=1 d=1 t=88
+ba4 wang2 	霸王	c=1 d=1 t=31
+bi4 	避	c=1 d=1 t=27
+bi4 hu4 	庇護	c=1 d=1 t=104
+bian4 shi4 	便是	c=1 d=1 t=68
+bian4 shi4 	辨識	c=1 d=1 t=69
+bian4 xiang4 	變相	c=1 d=1 t=30
+cang1 hai3 	滄海	c=1 d=1 t=106
+cao2 	槽	c=1 d=1 t=96
+cheng2 	承	c=1 d=1 t=55
+chuang1 	窗	c=1 d=1 t=29
+chui2 	鎚	c=1 d=1 t=35
+ci2 ku4 	詞庫	c=1 d=0.99005 t=112
+cuan1 duo5 	攛掇	c=1 d=1 t=48
+cuo4 e4 	錯愕	c=1 d=1 t=58
+diao1 min2 	刁民	c=1 d=1 t=33
+dun4 	頓	c=1 d=1 t=82
+duo2 	夺	c=1 d=1 t=45
+e4 	厄	c=1 d=1 t=49
+er3 	爾	c=1 d=1 t=12
+feng4 xi4 	縫隙	c=1 d=1 t=101
+fu1 chu1 	敷出	c=1 d=1 t=105
+fu2 she4 	輻射	c=1 d=1 t=14
+fu4 mie4 	覆滅	c=1 d=1 t=97
+fu4 yu4 	富裕	c=1 d=1 t=62
+gu4 	顧	c=1 d=1 t=111
+guan3 	管	c=1 d=1 t=109
+guo2 	國	c=2 d=1.99501 t=112
+guo3 	裹	c=1 d=1 t=98
+he2 	和	c=1 d=0.97531 t=112
+he2 cheng2 	合成	c=1 d=0.995012 t=112
+he4 	鶴	c=1 d=1 t=23
+hu1 lve4 	忽略	c=1 d=1 t=99
+huai2 	踝	c=1 d=1 t=32
+huan3 cun2 	緩存	c=1 d=1 t=112
+huan4 	幻	c=1 d=1 t=50
+huang2 shan4 	黃鱔	c=1 d=1 t=21
+hun4 dun4 	混沌	c=0 d=0.1 t=93
+hun4 dun4 mian4 	混沌麪	c=1 d=1 t=94
+ji2 du4 	嫉妒	c=2 d=1.94176 t=85
+jian1 ao2 	煎熬	c=2 d=1.99005 t=79
+jian4 	磵	c=1 d=1 t=43
+jian4 	鑑	c=1 d=1 t=42
+jiao3 rou2 zao4 zuo4 	矯揉造作	c=1 d=1 t=46
+jin3 gu1 zhou4 	緊箍咒	c=1 d=1 t=81
+juan4 shu3 	眷屬	c=1 d=1 t=74
+jun1 yun2 	均勻	c=1 d=1 t=40
+kong3 pa4 	恐怕	c=1 d=1 t=80
+kong4 xia2 	空暇	c=1 d=1 t=57
+kui1 	窺	c=1 d=1 t=19
+kui3 lei3 	傀儡	c=1 d=1 t=110
+la1 ji1 	垃圾	c=1 d=1 t=37
+li4 ci4 	歷次	c=1 d=1 t=53
+lin2 	臨	c=1 d=1 t=39
+luo4 po4 	落魄	c=1 d=1 t=52
+lv3 xing2 	旅行	c=1 d=1 t=63
+lv3 you2 	旅遊	c=1 d=1 t=89
+mian4 	麪	c=0 d=0.1 t=93
+mo4 sheng1 	陌生	c=1 d=1 t=44
+nv3 xu4 	女婿	c=1 d=1 t=56
+pei2 yang3 	培養	c=1 d=1 t=66
+qi2 tu2 	歧途	c=1 d=1 t=51
+qiao1 zha4 	敲詐	c=1 d=1 t=95
+qin2 se4 	琴瑟	c=1 d=1 t=34
+qing2 lv3 	情侶	c=1 d=1 t=24
+qiu1 	邱	c=1 d=1 t=26
+que1 	缺	c=1 d=1 t=10
+rao4 lun4 	繞論	c=1 d=1 t=65
+rong2 	蓉	c=1 d=1 t=103
+shan4 	善	c=1 d=1 t=18
+shang3 	賞	c=1 d=1 t=59
+shi4 	勢	c=1 d=1 t=87
+shi4 	誓	c=1 d=1 t=47
+shou4 	獸	c=1 d=1 t=84
+shu1 	叔	c=1 d=1 t=20
+shu1 ji2 	書籍	c=1 d=1 t=67
+shu2 xi1 	熟悉	c=1 d=1 t=13
+shu4 	豎	c=1 d=1 t=36
+sou1 gou3 	搜狗	c=1 d=0.980199 t=112
+su4 du4 	速度	c=1 d=1 t=112
+su4 she4 	宿舍	c=1 d=1 t=11
+teng2 	騰	c=1 d=1 t=83
+wa4 	襪	c=1 d=1 t=41
+wan3 	婉	c=1 d=1 t=102
+wan4 	萬	c=4 d=2.44497 t=112
+weng1 	翁	c=1 d=1 t=60
+xian4 mu4 	羨慕	c=1 d=1 t=28
+xiao1 mi3 	消弭	c=1 d=1 t=54
+xie1 	歇	c=1 d=1 t=64
+xie2 	脅	c=1 d=1 t=22
+xie4 zai4 	卸載	c=2 d=1.99501 t=92
+xing1 fen4 	興奮	c=1 d=1 t=71
+xing4 zai1 le4 huo4 	幸災樂禍	c=1 d=1 t=72
+xue2 	學	c=1 d=1 t=112
+ya1 suo1 	壓縮	c=1 d=1 t=100
+yan3 	演	c=1 d=1 t=25
+yang2 wei3 	陽痿	c=1 d=1 t=70
+ye4 	頁	c=1 d=1 t=93
+yin2 	淫	c=1 d=1 t=61
+you2 yu4 	猶豫	c=1 d=1 t=76
+yu4 ba4 bu4 neng2 	欲罷不能	c=1 d=1 t=78
+zao3 can1 	早餐	c=1 d=1 t=90
+zha2 shi2 	紮實	c=1 d=1 t=108
+zheng1 zha2 	掙扎	c=1 d=1 t=75
+zhong1 jian1 	中堅	c=1 d=1 t=107
+zi3 se4 	紫色	c=1 d=1 t=38
+zuo4 sui4 	作祟	c=1 d=1 t=86
